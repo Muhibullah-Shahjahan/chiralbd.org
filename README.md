@@ -1,4 +1,4 @@
-# BIASlab website content
+# HDRO Content 
 
 This repository contains all the content necessary for proper rendering of BIASlab group [website](https://biaslab.github.io).
 
