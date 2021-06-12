@@ -2,59 +2,52 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://hdrobd.github.io"
+baseurl = "https://hdrobd.github.io/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Health Data Research Organization"
 math = true
-copyright = "&copy; Health Data Research Organization, 2021 "
-enableRobotsTXT = true
+copyright = "&copy;Health Data Research Organization, 2021 "
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+
+[params.logo]
+  image = "img/hdro.png"
+  link = "/"
+
 
 [params]
-  description = "Health Data Research Organization"
-  author = "HDRO"
-  email = "info<at>hdrobd.org"
-  youtube = "https://www.youtube.com/channel/UCd1ftkOXIQ8MstIHosEDdaw/"
-  address = '<a href="https://www.google.nl/maps/place/Flux/@51.4477301,5.4899384,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!2sFlux!3b1!8m2!3d51.4477268!4d5.4921271!3m4!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!8m2!3d51.4477268!4d5.4921271">Flux building 7.060, Groene Loper 19, 5612 AP Eindhoven, the Netherlands</a>'
-  slogan = "HDRO<b>BD</b>"
-  slogan_icon = "icon-spsbrats_logo"
-  slogan_text = "Lab  for Gaining Insights from Data"
-  custom_css = ["biaslab.css"]
-  landing_heading = "Lab for Gaining Insights from Data"
-  landing_description = "Automating the development of novel signal processing and control systems through <span style=\"white-space: nowrap;\">neuro-inspired</span> <span style=\"white-space: nowrap;\">free-energy</span> minimizing agents"
-  positions_available = true
+  description = "Website of Health Data Research Organization"
+  author = "Jubayer Hossain"
+  email = "hdrobd.org@gmail.com"
+  address = "Azimpur, 7/A, Dhaka, Bangladesh"
 
-  [params.logo]
-    image = "img/hdro.png"
-    link = "/"
+  slogan = "Lab for Gaining Health Insights from Data"
+  slogan_text = "Health Data Analytics - Bioinformatics - Genomics"
 
-  # [[params.navbar_hierarchy]]
-  #   name = "SPS"
-  #   link = "https://www.tue.nl/en/research/research-groups/signal-processing-systems/"
-  #   position = 1
+  [[params.slogan_columns]]
+    #title = "About"
+    #text =  "Lorem markdownum potest utinam stabat nostris circinat sui intus eminus sanguis:narres gratata hastae dissimulant erat Trinacris! Et caput mandata gravitate atque, caeloque Oleniae austrum! Haemonio ex neque in suas iste, quem hastam alis conquerar altae, arce tutaeque est sincera [fores](http://illo.com/). Et *Aetnaea in spectat* mutarent. Prospexit longaeque adest fatidicamque dicemur habet, nec cognitus me Trachinia sperat."
+    #link = "/about"
+    #link_text = "Meet the team"
+    weight = 1
 
-  # [[params.navbar_hierarchy]]
-  #   name = "Health Data Research Organization"
-  #   link = "/"
-  #   position = 2
+  [[params.slogan_columns]]
+    # title = "Mission"
+    # text = "Per peterem ex, Eurystheus videt maeonis, Paeonis uritur. Dextera [legem](http://nubibus.net/qualisardeat), contigerat optabile undis bene: abis sperato. Instrumenta arma, subiectas generis non ipsa patres quia magna Messeneque lacrimaeque torva. Aequo crescunt inrequieta feras, diu illa est occupat aequoribus hunc Elpenora tollens vult robore. Finiat priora vulnere nec Nelei fit quae totidemque intibaque iter longo."
+    # link = "/mission"
+    # link_text = "Read more"
+    weight = 2
 
-  [[params.sponsors]]
-    name = "NWO"
-    link = "http://www.stw.nl"
-    image = "/img/sponsors/NWO.png"
-  [[params.sponsors]]
-    name = "GN Resound"
-    link = "http://www.resound.com/"
-    image = "/img/sponsors/GNResound.png"
+  [[params.slogan_columns]]
+    # title = "Approach"
+    # text = "Lorem markdownum in texit! Quoniam ferar tabellis modo! Nam et spatiosumque puellae modo temperiemque mare canentis ministris **populisque** actus flammifera [dicta](http://www.geminoalpino.com/nec-pegason), non neque nutrit [recingunt Phrygiae](http://vitta-telamone.org/cyllenenquearcus.php). Pignoribus Phaestia Chaonis simulacraque viae et genus miratur moenibus tinnitibus ex simul."
+    # link = "/approach"
+    # link_text = "Read more"
+    weight = 3
 
   # Selected Publications section.
   [params.publications_selected]
@@ -90,11 +83,11 @@ tag = "tags"
 
   # Vacancies section
   # Section will only be displayed if there are valid vacancies in `content/vacancy`
-  [params.open_projects]
-    title = "Open projects"
+  [params.vacancies]
+    title = "Vacancies"
     subtitle = ""
     count = 3
-    str_all = "All open projects"
+    str_all = "More Vacancies"
 
   # Contact section.
   [params.contact]
@@ -107,78 +100,37 @@ tag = "tags"
   #   The weight parameter defines the order that the links will appear in.
 
   [[menu.main]]
-    name = "Home"
-    url = "/#home"
-    weight = 1
+      name = "Home"
+      url = "/#top"
+      weight = 1
 
   [[menu.main]]
-    name = "Publications"
-    url = "/#publications"
-    parent="research"
-    weight = 3
+      name = "Research"
+      url = "/research"
+      weight = 2
 
   [[menu.main]]
-    name = "Starter's guide"
-    url = "/research/starter-guide"
-    parent="joinus"
-    weight = 3
+      name = "Publications"
+      url = "/#publications"
+      weight = 3
+
+    [[menu.main]]
+      name = "Projects"
+      url = "/#projects"
+      weight = 4
 
   [[menu.main]]
-    name = "Research"
-    weight = 2
-    identifier = "research"
+      name = "Members"
+      url = "/#members"
+      weight = 5
 
   [[menu.main]]
-    name = "Projects"
-    url = "/#projects"
-    parent = "research"
-    weight = 2
+      name = "Blog"
+      url = "/#posts"
+      weight = 6
+
 
   [[menu.main]]
-    name = "Blog"
-    url = "/#posts"
-    parent = "research"
-    weight = 4
-
-  [[menu.main]]
-    name = "Team"
-    url = "/#members"
-    weight = 5
-
-  [[menu.main]]
-    name = "Software"
-    weight = 3
-    identifier = "software"
-
-  [[menu.main]]
-    name = "ForneyLab.jl"
-    url = "https://biaslab.github.io/ForneyLab.jl/stable/"
-    parent = "software"
-    weight = 1
-
-  [[menu.main]]
-    name = "Rocket.jl"
-    url = "https://biaslab.github.io/Rocket.jl/stable"
-    parent = "software"
-    weight = 2
-
-  [[menu.main]]
-    name = "Join us"
-    url = "#open-projects"
-    weight = 6
-    identifier="joinus"
-
-  [[menu.main]]
-    name = "Open projects"
-    url = "/open-projects"
-    parent = "joinus"
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/#contact"
-    weight = 7
-
-  [[menu.main]]
-    name = "Teaching"
-    url = "/teaching/bmlip"
-    weight = 2
+      name = "Contact"
+      url = "/#contact"
+      weight = 7
