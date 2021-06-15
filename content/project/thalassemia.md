@@ -1,11 +1,11 @@
 +++
-date = "2020-05-22T14:45:00+02:00"
+date = "2021-05-22T14:45:00+02:00"
 external_link = ""
 project_id = "ai-park"
-picture = "projects/park-by-ai/robot-main.jpg"
+picture = "projects/thalassemia/thalassemia.jpg"
 description = "In order to assess the feasibility of active inference as a framework for synthetic agents in a real-world setting, we developed a ground-based robot that needs to learn to navigate to an undisclosed parking location. The robot can only learn where to park through situated interactions with a human observer who is aware of the target location."
 short_description = "In order to assess the feasibility of active inference as a framework for synthetic agents in a real-world setting, we developed a ground-based robot that needs to learn to navigate to an undisclosed parking location. The robot can only learn where to park through situated interactions with a human observer who is aware of the target location."
-title = "Learning Where to Park by Active Inference"
+title = "Thalassemia"
 participants_block_position = "down"
 sort_position = 1
 

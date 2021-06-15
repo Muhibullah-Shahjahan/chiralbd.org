@@ -1,11 +1,11 @@
 +++
-date = "2018-08-23T14:45:00+02:00"
+date = "2019-08-23T14:45:00+02:00"
 external_link = ""
 project_id = "forneylab"
-picture = "projects/ForneyLab/fl_logo.png"
+picture = "projects/covid19/corona.jpg"
 description = "The goal of scientific modeling is to find increasingly better models for given datasets. The right choice of probabilistic programming framework may allow for automated derivation of efficient algorithms for model fitting and performance evaluation. ForneyLab is a novel Julia package that allows the user to specify a probabilistic model as an FFG and pose inference problems on this FFG. ForneyLab is especially potent when applied to time-series data, where it attains comparable performance to Stan and Edward in significantly less computation time."
 short_description = "ForneyLab is a novel Julia package that allows the user to specify a probabilistic model as an FFG and pose inference problems on this FFG. ForneyLab is especially potent when applied to time-series data, where it attains comparable performance to Stan and Edward in significantly less computation time."
-title = "ForneyLab: a Julia Toolbox for Factor Graph-Based Probabilistic Programming"
+title = "COVID-19"
 participants_block_position = "down"
 sort_position = 1
 

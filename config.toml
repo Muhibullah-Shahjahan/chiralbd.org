@@ -2,12 +2,12 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = ""
+baseurl = "https://hdrobd.github.io"
 canonifyurls = true
 theme = "hugo-academic-group"
-title = "BIASlab"
+title = "Health Data Research Organization"
 math = true
-copyright = "&copy; BIASlab, 2020 "
+copyright = "&copy; Health Data Research Organization, 2021 "
 enableRobotsTXT = true
 
 [taxonomies]
@@ -20,32 +20,32 @@ tag = "tags"
       unsafe = true
 
 [params]
-  description = "Website of research group"
-  author = "BIASlab"
-  email = "info<at>biaslab.org"
+  description = "Health Data Research Organization"
+  author = "HDRO"
+  email = "info<at>hdrobd.org"
   youtube = "https://www.youtube.com/channel/UCd1ftkOXIQ8MstIHosEDdaw/"
   address = '<a href="https://www.google.nl/maps/place/Flux/@51.4477301,5.4899384,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!2sFlux!3b1!8m2!3d51.4477268!4d5.4921271!3m4!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!8m2!3d51.4477268!4d5.4921271">Flux building 7.060, Groene Loper 19, 5612 AP Eindhoven, the Netherlands</a>'
-  slogan = "BIAS<b>LAB</b>"
+  slogan = "HDRO<b>BD</b>"
   slogan_icon = "icon-spsbrats_logo"
-  slogan_text = "Bayesian Intelligent Autonomous Systems"
+  slogan_text = "Lab  for Gaining Insights from Data"
   custom_css = ["biaslab.css"]
-  landing_heading = "Natural Artificial Intelligence"
+  landing_heading = "Lab for Gaining Insights from Data"
   landing_description = "Automating the development of novel signal processing and control systems through <span style=\"white-space: nowrap;\">neuro-inspired</span> <span style=\"white-space: nowrap;\">free-energy</span> minimizing agents"
   positions_available = true
 
   [params.logo]
-    image = "img/tue-logo.png"
-    link = "https://tue.nl"
-
-  [[params.navbar_hierarchy]]
-    name = "SPS"
-    link = "https://www.tue.nl/en/research/research-groups/signal-processing-systems/"
-    position = 1
-
-  [[params.navbar_hierarchy]]
-    name = "BIASlab"
+    image = "img/hdro.png"
     link = "/"
-    position = 2
+
+  # [[params.navbar_hierarchy]]
+  #   name = "SPS"
+  #   link = "https://www.tue.nl/en/research/research-groups/signal-processing-systems/"
+  #   position = 1
+
+  # [[params.navbar_hierarchy]]
+  #   name = "Health Data Research Organization"
+  #   link = "/"
+  #   position = 2
 
   [[params.sponsors]]
     name = "NWO"
