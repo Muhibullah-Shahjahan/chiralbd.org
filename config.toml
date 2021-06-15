@@ -180,5 +180,5 @@ tag = "tags"
 
   [[menu.main]]
     name = "Teaching"
-    url = "/teaching/bmlip"
+    url = "/teaching/PY4HDA"
     weight = 2

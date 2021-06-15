@@ -1,6 +1,6 @@
 +++
 date = "2016-07-12T15:52:22+02:00"
-id = "albert"
+id = "jubayer"
 interests = ["Public Health", "Health Data Analytics", "Machine Learning", "Bioinformatics"]
 name = "Jubayer Hossain"
 portrait = "portraits/jubayer.jpg"
