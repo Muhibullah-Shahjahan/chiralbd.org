@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://biaslab.github.io"
+baseurl = "https://hdrobd.github.io"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "BIASlab"
