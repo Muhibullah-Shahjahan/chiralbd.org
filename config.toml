@@ -22,15 +22,15 @@ tag = "tags"
 [params]
   description = "Health Data Research Organization"
   author = "HDRO"
-  email = "info<at>hdrobd.org"
-  youtube = "https://www.youtube.com/channel/UCd1ftkOXIQ8MstIHosEDdaw/"
-  address = '<a href="https://www.google.nl/maps/place/Flux/@51.4477301,5.4899384,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!2sFlux!3b1!8m2!3d51.4477268!4d5.4921271!3m4!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!8m2!3d51.4477268!4d5.4921271">Flux building 7.060, Groene Loper 19, 5612 AP Eindhoven, the Netherlands</a>'
+  email = "hdrobd.org@gmail.com"
+  #youtube = "https://www.youtube.com/channel/UCAcwD0rF2Rm-sp1c2LUWh4w"
+  address = '<a>Azimpur, 7/7, Dhaka, Bangladesh</a>'
   slogan = "HDRO<b>BD</b>"
   slogan_icon = "icon-spsbrats_logo"
-  slogan_text = "Lab  for Gaining Insights from Data"
+  slogan_text = "Lab for Gaining Health Insights from Data"
   custom_css = ["biaslab.css"]
-  landing_heading = "Lab for Gaining Insights from Data"
-  landing_description = "Automating the development of novel signal processing and control systems through <span style=\"white-space: nowrap;\">neuro-inspired</span> <span style=\"white-space: nowrap;\">free-energy</span> minimizing agents"
+  landing_heading = "Lab for Gaining Health Insights from Data"
+  landing_description = "We are a voluntary non-profit research platform, resolving to promote interdisciplinary research in the field of health data science, computational biology and genomics."
   positions_available = true
 
   [params.logo]
@@ -47,14 +47,14 @@ tag = "tags"
   #   link = "/"
   #   position = 2
 
-  [[params.sponsors]]
-    name = "NWO"
-    link = "http://www.stw.nl"
-    image = "/img/sponsors/NWO.png"
-  [[params.sponsors]]
-    name = "GN Resound"
-    link = "http://www.resound.com/"
-    image = "/img/sponsors/GNResound.png"
+  # [[params.sponsors]]
+  #   name = "NWO"
+  #   link = "http://www.stw.nl"
+  #   image = "/img/sponsors/NWO.png"
+  # [[params.sponsors]]
+  #   name = "GN Resound"
+  #   link = "http://www.resound.com/"
+  #   image = "/img/sponsors/GNResound.png"
 
   # Selected Publications section.
   [params.publications_selected]
@@ -145,22 +145,22 @@ tag = "tags"
     url = "/#members"
     weight = 5
 
-  [[menu.main]]
-    name = "Software"
-    weight = 3
-    identifier = "software"
+  # [[menu.main]]
+  #   name = "Software"
+  #   weight = 3
+  #   identifier = "software"
 
-  [[menu.main]]
-    name = "ForneyLab.jl"
-    url = "https://biaslab.github.io/ForneyLab.jl/stable/"
-    parent = "software"
-    weight = 1
+  # [[menu.main]]
+  #   name = "ForneyLab.jl"
+  #   url = "https://biaslab.github.io/ForneyLab.jl/stable/"
+  #   parent = "software"
+  #   weight = 1
 
-  [[menu.main]]
-    name = "Rocket.jl"
-    url = "https://biaslab.github.io/Rocket.jl/stable"
-    parent = "software"
-    weight = 2
+  # [[menu.main]]
+  #   name = "Rocket.jl"
+  #   url = "https://biaslab.github.io/Rocket.jl/stable"
+  #   parent = "software"
+  #   weight = 2
 
   [[menu.main]]
     name = "Join us"
