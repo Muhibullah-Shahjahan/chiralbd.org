@@ -112,38 +112,83 @@ tag = "tags"
     weight = 1
 
   [[menu.main]]
-    name = "Publications"
-    url = "/#publications"
-    parent="research"
-    weight = 3
-
-  [[menu.main]]
-    name = "Starter's guide"
-    url = "/research/starter-guide"
-    parent="joinus"
-    weight = 3
-
-  [[menu.main]]
     name = "Research"
     weight = 2
     identifier = "research"
-
-  [[menu.main]]
+[[menu.main]]
     name = "Projects"
     url = "/#projects"
     parent = "research"
     weight = 2
-
+ [[menu.main]]
+    name = "Publications"
+    url = "/#publications"
+    parent="research"
+    weight = 3
   [[menu.main]]
     name = "Blog"
     url = "/#posts"
     parent = "research"
     weight = 4
-
-  [[menu.main]]
+ 
+ [[menu.main]]
     name = "Team"
     url = "/#members"
     weight = 5
+
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/PY4HDA"
+    weight = 2
+
+
+   [[menu.main]]
+    name = "Resources"
+    weight = 6
+    identifier = "resources"
+    [[menu.main]]
+    name = "Statistics"
+    url = "#statistics"
+    parent = "resources"
+    weight = 7
+    [[menu.main]]
+    name = "Python"
+    url = "/resources/python"
+    parent = "resources"
+    weight = 8
+    [[menu.main]]
+    name = "R Programming"
+    url = "#statistics"
+    parent = "resources"
+    weight = 9
+    [[menu.main]]
+    name = "Free Journals"
+    url = "#statistics"
+    parent = "resources"
+    weight = 10
+
+  [[menu.main]]
+    name = "Join us"
+    url = "#open-projects"
+    weight = 7
+    identifier="joinus"
+  [[menu.main]]
+    name = "Starter's guide"
+    url = "/research/starter-guide"
+    parent="joinus"
+    weight = 8 
+
+  [[menu.main]]
+    name = "Open projects"
+    url = "/open-projects"
+    parent = "joinus"
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/#contact"
+    weight = 9
+
+
 
   # [[menu.main]]
   #   name = "Software"
@@ -162,23 +207,9 @@ tag = "tags"
   #   parent = "software"
   #   weight = 2
 
-  [[menu.main]]
-    name = "Join us"
-    url = "#open-projects"
-    weight = 6
-    identifier="joinus"
 
-  [[menu.main]]
-    name = "Open projects"
-    url = "/open-projects"
-    parent = "joinus"
 
-  [[menu.main]]
-    name = "Contact"
-    url = "/#contact"
-    weight = 7
 
-  [[menu.main]]
-    name = "Teaching"
-    url = "/teaching/PY4HDA"
-    weight = 2
+
+
+

@@ -1,19 +1,29 @@
 +++
-title="Starter's Guide for students at BIASlab research team"
-date = "2018-07-19T8:50:58+02:00"
+title="Starter's Guide for New Team Members at HDRO Research Team"
+date = "2020-07-19T8:50:58+02:00"
 [[authors]]
-    name = "Bert de Vries"
+    name = "Jubayer Hossain"
     is_member = true
-    link = "/bert"
+    link = "/jubayer"
 +++
 
 This document is a starter's guide for students who do an internship or graduate level (MSc, PhD) project with [me](http://bertdv.nl). For the duration of your project you will become part of our [**BIASlab** team of graduate students](http://biaslab.org). I discuss here our research mission, our way of working, the tools we use and provide some links to key scientific papers that relate to our research. This guide is always a work in progress and each project will have its own goals and dynamics. Still, generally speaking, I would appreciate if you have a look at the links and think about the issues that I raise here. Talk to me when you have questions or ideas to improve this document.
 
 ## Research
 
+### Public Health - Health Data Science 
+
+We are interested in modern AI methods that support **automated design of signal processing systems**, in particular in the context of audio processing algorithms. For instance, if I have a problem with (the signal processing of) my hearing aid when I am at a cocktail party, I want to fix it right there so I can stay and enjoy the party. Today, there are no proper tools that support the end user in fine-tuning his hearing aid.  We aim to develop such a support tool, and our methods are inspired by theories about learning and adaptation in the fields of (Bayesian) **machine learning** and **computational neuroscience**. In particular, we derive inspiration from recent work in neuroscience that describes how brains perceive, learn and design their algorithms for speech and object recognition, navigation, etc. In our team, we are building a very efficient Bayesian machine learning toolbox ourselves and 'eat our own dogfood' by putting ourselves in complex acoustic situations and use our own tools to tune our audio processing algorithms. This leads to new demands on the toolbox, which drives our next research steps.
+
+
+### Bioinformatics - Genomic Data Science 
+
+We are interested in modern AI methods that support **automated design of signal processing systems**, in particular in the context of audio processing algorithms. For instance, if I have a problem with (the signal processing of) my hearing aid when I am at a cocktail party, I want to fix it right there so I can stay and enjoy the party. Today, there are no proper tools that support the end user in fine-tuning his hearing aid.  We aim to develop such a support tool, and our methods are inspired by theories about learning and adaptation in the fields of (Bayesian) **machine learning** and **computational neuroscience**. In particular, we derive inspiration from recent work in neuroscience that describes how brains perceive, learn and design their algorithms for speech and object recognition, navigation, etc. In our team, we are building a very efficient Bayesian machine learning toolbox ourselves and 'eat our own dogfood' by putting ourselves in complex acoustic situations and use our own tools to tune our audio processing algorithms. This leads to new demands on the toolbox, which drives our next research steps.
+
+
 ### Mission
 
-{{< figure src="/img/starter-guide/design-loop.png" width="450px" class="right-inline" >}}
+{{< figure src="/img/starter-guide/ml.png" width="450px" class="left-inline" >}}
 
 We are interested in modern AI methods that support **automated design of signal processing systems**, in particular in the context of audio processing algorithms. For instance, if I have a problem with (the signal processing of) my hearing aid when I am at a cocktail party, I want to fix it right there so I can stay and enjoy the party. Today, there are no proper tools that support the end user in fine-tuning his hearing aid.  We aim to develop such a support tool, and our methods are inspired by theories about learning and adaptation in the fields of (Bayesian) **machine learning** and **computational neuroscience**. In particular, we derive inspiration from recent work in neuroscience that describes how brains perceive, learn and design their algorithms for speech and object recognition, navigation, etc. In our team, we are building a very efficient Bayesian machine learning toolbox ourselves and 'eat our own dogfood' by putting ourselves in complex acoustic situations and use our own tools to tune our audio processing algorithms. This leads to new demands on the toolbox, which drives our next research steps.
 
@@ -66,9 +76,30 @@ Ideas are usually discussed in a [slack](https://slack.com/) chatroom. Slack sto
  We use the [git](http://git-scm.com) version control system to track the various developments of our code base and we organize our projects in repositories at [github](http://github.com). It is important to become a smooth user of both git and github. We use git and github also to track all documents that we write ourselves, including your thesis report. In the windows environment, I recommend that you install [github for windows](http://windows.github.com/) and/or [TortoiseGit](http://code.google.com/p/tortoisegit/).  [Github bootcamp](https://help.github.com/articles/set-up-git) and Dudler's [git guide](http://rogerdudler.github.com/git-guide/) are good places to start. Our workflow is loosely based on [github flow](http://scottchacon.com/2011/08/31/github-flow.html). The articles on [Team collaboration with github](http://net.tutsplus.com/articles/general/team-collaboration-with-github/) and [How to collaborate on Github](http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267) also contain interesting discussions.
 
 
+### Python
+
+{{< figure src="/img/starter-guide/python.png" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+### R Programming 
+{{< figure src="/img/starter-guide/r.svg" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+### Bioconductor
+{{< figure src="/img/starter-guide/bioconductor.png" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
 ### Julia
 
 {{< figure src="/img/starter-guide/julia-logo.png" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+I also recommend that you spend some time on getting familiar with [Test-Driven Development](https://www.youtube.com/watch?t=11&v=ZB66AKW87M0) (TDD) of code.
+
+
+### SPSS
+
+{{< figure src="/img/starter-guide/spss.svg" width="120px" class="left-inline" >}}
 We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
 
 I also recommend that you spend some time on getting familiar with [Test-Driven Development](https://www.youtube.com/watch?t=11&v=ZB66AKW87M0) (TDD) of code.
@@ -80,11 +111,14 @@ I also recommend that you spend some time on getting familiar with [Test-Driven 
 
 The project's final report should be written in [LaTeX](http://www.latex-project.org/) on [Overleaf](https://www.overleaf.com/). You must get familiar with LaTeX early during your project, because we start writing the final report very soon after the start of the project.
 
-### Zotero
 
-{{< figure src="/img/starter-guide/zotero-logo.png" width="100px" class="left-inline" >}}
+### Mendeley
+
+{{< figure src="/img/starter-guide/mendeley.png" width="100px" class="left-inline" >}}
 
 After you join the BIASlab team you will also get access to our literature collection that we store online in a  [Zotero](https://www.zotero.org/) repository. This will help you get an overview of all relevant papers in our field.
+
+
 
 <br />
 
@@ -124,26 +158,3 @@ Once you got your final goals and starting point clear, you can make an attempt 
 
 - Finally, I will give you some literature specifically tailored for your project. You should start training yourself in Bayesian modeling and how to do Bayesian inference through message passing in graphical models.
 
-## Want to Get Started ahead of Time?
-
-In principle, you are not required to prepare anything before your project starts, but I will give here some pointers in case you are eager to get going or to read up on some background materials.
-
-- One way to start is to read my [booklet](http://alexandria.tue.nl/extra2/redes/vries2013.pdf) that I wrote for my inaugual lecture and to watch that [lecture at youtube](https://www.youtube.com/watch?v=l0DuYblLEGA) (starts after 7 minutes). This kind of shows where our research interests lie, but don't take it very literally. There is of course room to negotiate your project to match your personal interests.
-
-- If you're not yet convinced about the value of fast iteration cycles for design, I'd like you to watch two additional videos. First, I recommend that you watch the first 30 minutes of this [presentation by Bret Victor](https://vimeo.com/36579366) (you should watch this video anyway, just because it's awesome). A second interesting viewpoint relates to 'lean design' or the 'lean startup' which is well presented in this [presentation by Eric Ries](https://www.youtube.com/watch?v=fEvKo90qBns). Both presentations are not about signal processing nor about machine learning but they do support the idea that *fast iterations driven by end user feedback* is a fundamentally sound approach to the design of complex systems.
-
-- There is a vast literature on (Bayesian) machine learning. If you time it right, this [course by Andrew Ng](https://www.coursera.org/course/ml) would probably be an excellent way to start. You could also give [Zoubin Ghahramani's lectures](http://goo.gl/jhml0) a go. This [class by Ryan Adams](http://seas.harvard.edu/courses/cs281/) lists a fairly comprehensive literature list. By no means do you need to absorb all these materials; I recommend that you watch Ghahramani's videos and look further based on interest.
-
-- In terms of inference and learning methods, we are particularly interested in variational Bayesian learning in factor graphs, a.k.a. *Variational Message Passing* (VMP). VMP enjoys many interesting features, but it is not easy to get familiar with. A good way to start would be [Mackay's video lecture on variational methods](http://videolectures.net/mackay_course_14/).
-
-- If you want to learn about Probabilistic Graphical Models (PGMs) in general, I recommend [Bishop's lectures at Tuebingen](http://research.microsoft.com/en-us/um/people/cmbishop/talks.htm) or [Bishop's 2010 Turing lecture](http://scpro.streamuk.com/uk/player/Default.aspx?wid=7739 "Bishop, Embracing Uncertainty: The new machine intelligence, 2010").
-
-- For more information on the specific PGM style that we use (Forney-style Factor Graphs), please see [this lecture](https://www.youtube.com/watch?v=Fv2YbVg9Frc&t=31) by Frederico Wadehn or these papers: [Sascha Korl dissertation, 2005](http://e-collection.library.ethz.ch/eserv/eth:28176/eth-28176-02.pdf) and [Loeliger et al., 2007](http://www.isiweb.ee.ethz.ch/papers/docu/aloe-jdau-juhu-skor-2007-1.pdf).
-
-- If you want to see how we have used factor graphs in one of our projects, here is a [recent PhD thesis](https://research.tue.nl/en/publications/automated-design-of-bayesian-signal-processing-algorithms) from one of our team members. No need to read this in detail, but it is an example of what we do.
-
-- You could also get started in Julia if you like. See the ['learning' site at julialang.org](http://julialang.org/learning/) . You can get started to program in julia e.g. at [JuliaBox](https://www.juliabox.com/), or you can [install Julia yourself](http://julialang.org/).
-
-- Finally, our research focuses more on machine learning methods than audio processing per se, but [Hamacher et al., 2005](http://asp.eurasipjournals.com/content/pdf/1687-6180-2005-152674.pdf "Hamacher at al, Signal Processing in High-End Hearing Aids: State of the Art, Challenges, and Future Trends, 2005") would be a good place to read up on hearing aid signal processing.
-
-Let me know if this guide helps you and feel free to suggest updates. Good luck and welcome to the team! We look much forward to working with you.
