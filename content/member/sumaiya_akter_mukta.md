@@ -29,7 +29,7 @@ sort_position = 9
     year = 2016
 
 [[organizations]]
-    name = "Health Data Research Organization"
+    #name = "Health Data Research Organization"
     role = "Research Assistant"
 
 
