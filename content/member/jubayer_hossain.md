@@ -11,7 +11,7 @@ sort_position = 1
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:a.podusenko@tue.nl"
+    link = "mailto: b150605021@mib.jnu.ac.bd"
 
 [[social]]
     icon = "github"
@@ -34,7 +34,7 @@ sort_position = 1
     year = 2018
 
 [[organizations]]
-    name = "Health Data Research Organization"
+    #name = "Health Data Research Organization"
     role = "Founder"
 
 +++

@@ -1,46 +1,39 @@
 +++
 date = "2016-07-12T15:52:22+02:00"
-id = "jubayer"
-interests = ["Public Health", "Health Data Analytics", "Machine Learning", "Bioinformatics"]
-name = "Jubayer Hossain"
-portrait = "portraits/jubayer.jpg"
-short_bio = "I am a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of my research interests. I founded the Health Data Research Organization as well."
-title = "Founder"
-sort_position = 4
+id = "bithi"
+interests = ["Public Health", "Health Data Analytics", "Bioinformatics"]
+name = "Bithi Akter"
+portrait = "portraits/Bithi-Akter.jpeg"
+short_bio = "I  am a student in the faculty of Microbiology at Jagannath University. I am interested in Health data science & Industrial Microbiology. I am a research assistant  of  Health Data Research Organization (HDRO)."
+title = "Member"
+sort_position = 5
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:a.podusenko@tue.nl"
+    link = "mailto:b170605021@mib.jnu.ac.bd"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://github.com/hossainlab"
+    link = "https://github.com/bithiakter"
 
 [[social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/jubayer28/"
+    link = "https://www.linkedin.com/in/bithi-akter-34ba851b0/"
 
 [[education]]
-    course = "BSc in Microbiology"
+    course = "Studying BS.c in Microbiology"
     institution = 'Jagannath University'
-    year = 2019
-
-[[education]]
-    course = "MSc in Microbiology"
-    institution = 'Jagannath University'
-    year = 2018
+    year = 2017
 
 [[organizations]]
-    name = "Health Data Research Organization"
-    role = "Founder"
+    #name = "Health Data Research Organization"
+    role = "Research Assistant"
 
 +++
 
-Jubayer is a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of his research interests. He founded the Health Data Research Organization as well.
+I  am a student in the faculty of Microbiology at Jagannath University. I am interested in Health data science & Industrial Microbiology. I am a research assistant  of  Health Data Research Organization (HDRO).The Health Data Research Organization  is a non-profit organization dedicated to scientific research and dissemination using primary and secondary sources as well as third-party data. Students and young professionals with expertise in biological science and health science run the organization, which is supervised by the university faculty members in the life sciences.
 
-The Health Data Research Organization (HDRO) is a non-profit organization dedicated to scientific research and dissemination using primary and secondary sources and third-party data. Students and young professionals with expertise in biological science and health science run the organization, supervised by university faculty members in the life sciences.
-
-Python is his primary language for data mining and machine learning. He also has a basic understanding of R and SQL.
+Python is my go-to language for data mining. I also have a limited understanding of R.
