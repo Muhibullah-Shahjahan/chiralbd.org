@@ -12,13 +12,13 @@ type = "teaching"
 [[participants]]
     name = "Jubayer Hossain"
     is_member = true
-    id = "jubayer"
+    id = "jhossain"
     position = 1
 
 [[participants]]
-    name = "Wouter Kouw"
+    name = "Atik Shahriar Sammo"
     is_member = true
-    id = "wouter"
+    id = "sammo"
     position = 2
 
 +++
@@ -34,60 +34,64 @@ The "Python for Health Data Analytics" will start in July 2021.
 
 <img src="/img/teaching/5SSD0-banner.png" width="1200px">
 
-### Course Info 
-| Item | Description| 
-|------|------------| 
-|Program|Health Data Analytics| 
-|Course Title| Python for Health Data Analytics| 
-|Course Number| HDA101| 
-|Course Level| Undergraduate/Basic|
-|Course Start-End| July 1 - July 16| 
+### Course Description 
+- **Course Type**: Health Data Analytics
+- **Course Title**: Python for Health Data Analytics
+- **Course Duration**: 20 days(Approx.) 
+- **Total Time**: 40 hours(30 hours lecture + 10 hours problem solution)
+- **Total Classes**: 20 (18 classes + 2 projects)
+- **Assignments**: 7 (5 problem sets + 2 projects) 
+- **Benifits**: Free reading materials, waiver for any future HDRO training. 
+- **Reward**: Based on the performance 5 students will be given **Research Assistantship(RA)**
+    oppurtunities to conduct health research with HDRO research team. 
+
 
 ### Course summary
-This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters. We will discuss important algorithms for parameter estimation in these models including the Expectation-Maximization (EM) algorithm and Variational Bayes (VB). The Bayesian method also provides tools for comparing the performance of different information processing systems by means of estimating the ``Bayesian evidence’’ for each model. We will discuss several methods for approximating Bayesian evidence. Next, we will discuss intelligent _agents_ that learn purposeful behavior from interactions with their environment. These agents are used for applications such as self-driving cars or interactive design of virtual and augmented realities. Indeed, in this course we relate synthetic Bayesian intelligent agents to natural intelligent agents such as the brain. You will be challenged to code Bayesian machine learning algorithms yourself and apply them to practical information processing problems.
+The course covers the fundamentals of Python programming and data analysis workflow. We will focus on data cleaning, management, and visualizations through a case study approach. We also focus on working with statistical problems, both descriptive and inferential techniques in health research. The basics of statistical model building and evaluating healthcare perspectives will be used in this course.  
 
-### Course Goal and Course Learning Objectives
-This course provides an introduction to Bayesian machine learning and information processing systems. The Bayesian approach affords a unified and consistent treatment of many useful information processing systems.
 
-<h2 style="color:red;">
+### Learning Objectives
+- Understanding of the basic programming concept using Python in the health research perspective
+- Understanding of the essential health data analysis workflow 
+- How to import and clean data using Pandas(A data management package built with Python) 
+- How to formulate a research question 
+- How to analyze health data 
+- How to visualize data using Matplotlib and seaborn(Data visualization packages built with Python) 
+- How to analyze and visualize geospatial data using Geopandas(A Python package to work with geospatial data) 
+- Understanding and interpreting data using descriptive statistics with Python 
+- Understanding and interpreting data using inferential statistics with Python 
+- Building and evaluating regressing model using scikit-learn(A machine learning library built with Python) 
+- Building and evaluating classification model using scikit-learn(A machine learning library built with Python) 
+
+<h3 style="color:red;">
 News and Announcements
-</h2>
+</h3>
 
 - As much as possible we use the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9) for new announcements. 
+- [Slack](https://slack.com/) is a chatroom for discussion. The participants can interact with mentors, share their problems and solutions easily.
 
 ### Course Prerequisites
-There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and R Studio, and worked through a basic tutorial on R Studio.
+There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed Python and Jupyter Notebook, and worked through a basic tutorial on Python Environment Setup.
 
 
 ## Instructors
 
-- [Prof.dr.ir. Bert de Vries](http://bertdv.nl) (email: bert.de.vries@tue.nl) is the responsible instructor for this course and teaches all [lectures with label B](#lectures).
-- [Dr. Wouter Kouw](https://biaslab.github.io/member/wouter/) (w.m.kouw@tue.nl) teaches all [practical sessions on probabilistic programming with label W](#lectures).                           
-- [Ismail Senoz, MSc](https://biaslab.github.io/member/ismail/) (i.senoz@tue.nl),  and [Magnus Koudahl, MSc](https://biaslab.github.io/member/magnus/) (m.t.koudahl@tue.nl) are teaching assistants. Mr. Koudahl presents the ["What is Life?"](#bonus-lecture) bonus lecture. 
+- [Md. Jubayer Hossain](http://jhossain.me) (email: contact.jubayerhossain@gmail.com) is the lead organizer and instructor for this course and teaches all [lectures M12 to M22](#lectures).
+- [Md. Atik Shahriar Sammo](https://hdrobd.org/member/atik_shariar_sammo/) (ask.sammo@gmail.com) teaches all [lectures M0 to M8](#lectures).                           
+- [Muhibullah Shahjahan](https://hdrobd.org/member/muhibullah_shahjahan/) (muhibullah@gmail.com),and [Bithi Akter](https://hdrobd.org/member/bithi_akter/) (bithiakterjnu13@gmail.com) are teaching assistants. [Mohammad Nahian](https://hdrobd.org/member/mohammad_nahian/) works as a course coordinator.
 
 
 ## Materials
 
 In principle, you can download all needed materials from the links below.
+## Books 
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Python for Data Analysis, 2nd Edition by Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
 
-### Books
-
-Please download the following books/resources:
-
-1. [Christopher M.
-Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm) (2006), [Pattern Recognition and
-Machine
-Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/). You can also buy a [hardcopy, e.g. at bol.com](https://tinyurl.com/thj7euq).
-2. [Ariel Caticha](https://www.albany.edu/physics/acaticha.shtml) (2012), [Entropic Inference and the Foundations of Physics](https://github.com/bertdv/BMLIP/blob/master/lessons/notebooks/files/Caticha-2012-Entropic-Inference-and-the-Foundations-of-Physics.pdf).
-3. Bert de Vries et al. (2020), [PDF bundle of lecture notes for lessons B0 through B12 (Ed. Q3-2019/20)](https://github.com/bertdv/BMLIP/blob/master/lessons/notebooks/files/5SSD0-Mar2020-Lecture-notes.pdf?dl=0). 
-    - The lecture notes may change a bit during the course, e.g., to process comments by students. A final PDF version will be posted after the last lecture.
-4. Wouter Kouw (2020), [Julia and Jupyter Install Guide](https://github.com/bertdv/BMLIP/blob/master/lessons/notebooks/files/WKouw-Mar2020-JuliaJupyterInstallGuide.pdf?dl=0). 
-    - Use this guide if you need help to install [Julia](https://julialang.org) and [Jupyter](https://jupyter.org/), so that you can open and run the course notebooks on your own machine.
-    - You can test your installation by running the notebook called "Probabilistic-Programming-0.ipynb", which can be downloaded from [github](https://github.com/bertdv/bmlip) (under `lessons/notebooks/probprog`). [Here](https://www.youtube.com/watch?v=BWGTudg3xlI) is a video with step-by-step instructions on opening course notebooks.
 
 ### <a name="lectures">Lecture Notes and Videos</a>
 
-The [source files for the lecture notes are accessible on github](https://github.com/bertdv/bmlip). If you want to download them, click the green `Code` button and then `Download ZIP`. The theory lectures are under `lessons/notebooks` and the programming notebooks are under `lessons/notebooks/probprog`. Note that you don't have to download them, you can view all lecture notes online through the links below:
+The [source files for the lecture notes are accessible on github](https://github.com/hdrobd/PY4HDA). If you want to download them, click the green `Code` button and then `Download ZIP`. The statistics theory lectures are under `lessons/stats/`; the datasets are under `lessons/data` and the Python notebooks are under `lessons/python/`. Note that you don't have to download them, you can view all lecture notes online through the links below:
 
 <table border = "1">
          <tr>
@@ -122,7 +126,7 @@ The [source files for the lecture notes are accessible on github](https://github
             M5: Functional Programming in Python</td>
             <td><a href="#">M4, M5</a></td>
             <td><a href="">M5</a>, <a href="#">M5</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 2</a></td>
          </tr>
         <tr>
             <td>04-July-2021</td>
@@ -130,7 +134,7 @@ The [source files for the lecture notes are accessible on github](https://github
             M6: Data Structures in Python: Part 2</td>
             <td><a href="#">M5, M6</a></td>
             <td><a href="">M5</a>, <a href="#">M6</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 3</a></td>
          </tr>
          <tr>
             <td>05-July-2021</td>
@@ -138,7 +142,7 @@ The [source files for the lecture notes are accessible on github](https://github
             M8: Python Classes and Objects</td>
             <td><a href="#">M7, M8</a></td>
             <td><a href="">M7</a>, <a href="#">M8</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 4</a></td>
          </tr>
         <tr>
             <td>06-July-2021</td>
@@ -146,7 +150,7 @@ The [source files for the lecture notes are accessible on github](https://github
             M9: Introduction to NumPy: Working with Multi Dimensional Array</td>
             <td><a href="#">M8, M9</a></td>
             <td><a href="">M8</a>, <a href="#">M9</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 5</a></td>
          </tr>
         <tr>
             <td>07-July-2021</td>
@@ -161,42 +165,42 @@ The [source files for the lecture notes are accessible on github](https://github
             <td>M12: Data Management with Pandas: Part 1</td>
             <td><a href="#">M12</a></td>
             <td><a href="">M12</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 2</a></td>
          </tr>
         <tr>
             <td>09-July-2021</td>
             <td>M13: Data Management with Pandas: Part 2</td>
             <td><a href="#">M13</a></td>
             <td><a href="">M13</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 3</a></td>
          </tr>
         <tr>
             <td>10-July-2021</td>
             <td>M14: Data Visualization with Matplotlib</td>
             <td><a href="#">M14</a></td>
             <td><a href="">M14</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 4</a></td>
          </tr>
         <tr>
             <td>11-July-2021</td>
             <td>M15: Data Visualization with Seaborn</td>
             <td><a href="#">M15</a></td>
             <td><a href="">M15</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 5</a></td>
          </tr>
         <tr>
             <td>12-July-2021</td>
             <td>M16: Introduction to Geopandas</td>
             <td><a href="#">M16</a></td>
             <td><a href="">M16</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 6</a></td>
          </tr>
         <tr>
             <td>13-July-2021</td>
             <td>M16: Introduction to Geopandas</td>
             <td><a href="#">M16</a></td>
             <td><a href="">M16</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 7</a></td>
          </tr>
         <tr>
             <td>13-July-2021</td>
@@ -210,21 +214,21 @@ The [source files for the lecture notes are accessible on github](https://github
             <td>M18: Interpreting Data Using Descriptive Statistics: Part 2</td>
             <td><a href="#">M18</a></td>
             <td><a href="">M18</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 2</a></td>
          </tr>
         <tr>
             <td>15-July-2021</td>
             <td>M19: Interpreting Data Using Inferential Statistics: Part 1</td>
             <td><a href="#">M19</a></td>
             <td><a href="">M19</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 3</a></td>
          </tr>
         <tr>
             <td>16-July-2021</td>
             <td>M20: Interpreting Data Using Inferential Statistics: Part 2</td>
             <td><a href="#">M20</a></td>
             <td><a href="">M20</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 4</a></td>
          </tr>
          <tr>
             <td>17-July-2021</td>
@@ -238,12 +242,8 @@ The [source files for the lecture notes are accessible on github](https://github
             <td>M22: Building Classification Model Using Python</td>
             <td><a href="#">M22</a></td>
             <td><a href="">M22</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#">Chapter 2</a></td>
          </tr>
-
-        
-
-        
 
 
  </table>
@@ -252,32 +252,4 @@ The [source files for the lecture notes are accessible on github](https://github
 
 Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9).
 
-### Exercises
 
-<!--- Prior to 2020, this course was evaluated by a written exam. In an written exam, the focus is a bit more on computational skills than in an oral exam.--->
-
-In preparation for the exam, we recommend that you work through the following exercises to test your understanding of the materials:
-
-  - [Exercises (without solutions)](http://nbviewer.ipython.org/github/bertdv/BMLIP/blob/master/lessons/exercises/Exercises.ipynb)
-  - [Exercises (with solutions)](http://nbviewer.ipython.org/github/bertdv/BMLIP/blob/master/lessons/exercises/Exercises-with-Solutions.ipynb)
-
-Please feel free to consult the following matrix and Gaussian cheat sheets (by Sam Roweis) when doing the exercises.
-  - [Gaussian Identities](https://github.com/bertdv/BMLIP/raw/master/lessons/notebooks/files/Roweis-1999-gaussian-identities.pdf?dl=0)
-  - [Matrix Identities](https://github.com/bertdv/BMLIP/raw/master/lessons/notebooks/files/Roweis-1999-matrix-identities.pdf?dl=0)
-
-
-
-## Exam Guide
-
-Each year there will be two exam opportunities. Check the official TUE course site for exam schedules.  In the Q2-2020 course, your performance will be assessed by a <span style="color:red;">WRITTEN EXAMINATION</span>, which (very likely) will be offered both online (with proctoring software) and offline (on campus, if the situation allows it). 
-
-**You cannot bring notes or books to the exam. All needed formulas are supplied at the exam sheet**.
-
-<!--- An exam session lasts about 30 minutes and will be recorded (and later deleted, following GDPR rules). At the beginning of the session, the examiner needs to check your identity, preferably by your campus card. 
-
-The style of the examination is conversational. We like to engage in a conversation with you about what you learned in the class. In general, oral exams do not lend themselves well to proofing theorems or other deep mathematical manipulations. Instead, the focus is more on testing if you understand the conceptual ideas in this class. In principle, everything that has been presented in the lecture notes and videos is fair game as an exam question, including programming questions from the probabilistic programming sessions. 
-
-Please review the [Oral Exam Example notebook](https://nbviewer.jupyter.org/github/bertdv/BMLIP/blob/master/lessons/exercises/Oral-Exam-Example.ipynb (Links to an external site.)) to get an idea of what kind of questions will be asked.
-
-The first question of the exam will be an open question: "You get 5 minutes to tell me about what you learned in this class. You can fill in the 5 minutes as you like but try to impress me with your knowledge or insights. E.g., talk about probabilistic modelling, how it works, what are strong aspects or weak aspects of the approach, etc." After the first question, the rest of the exam will be focused at topics selected by the examiner. 
---->
