@@ -34,21 +34,21 @@ The "Python for Health Data Analytics" will start in July 2021.
 
 <img src="/img/teaching/5SSD0-banner.png" width="1200px">
 
-### Course Description 
-- **Course Type**: Health Data Analytics
-- **Course Title**: Python for Health Data Analytics
-- **Course Duration**: 20 days(Approx.) 
-- **Total Time**: 40 hours(30 hours lecture + 10 hours problem solution)
-- **Total Classes**: 20 (18 classes + 2 projects)
-- **Assignments**: 7 (5 problem sets + 2 projects) 
-- **Benifits**: Free reading materials, waiver for any future HDRO training. 
-- **Reward**: Based on the performance 5 students will be given **Research Assistantship(RA)**
-    oppurtunities to conduct health research with HDRO research team. 
-
-
 ### Course summary
 The course covers the fundamentals of Python programming and data analysis workflow. We will focus on data cleaning, management, and visualizations through a case study approach. We also focus on working with statistical problems, both descriptive and inferential techniques in health research. The basics of statistical model building and evaluating healthcare perspectives will be used in this course.  
 
+
+### Course Description 
+- **Course Type:** Health Data Analytics
+- **Course Titl:** Python for Health Data Analytics
+- **Course Duration:** 20 days(Approx.) 
+- **Total Time:** 40 hours(30 hours lecture + 10 hours problem solution)
+- **Total Classes:** 20 (18 classes + 2 projects)
+- **Assignments:** 7 (5 problem sets + 2 projects) 
+- **Benifits:** Free reading materials, waiver for any future HDRO training. 
+- **Reward:** Based on the performance 5 students will be given **Research Assistantship(RA)**
+    oppurtunities to conduct health research with HDRO research team. 
+- **Medium:** Zoom/Google Meet
 
 ### Learning Objectives
 - Understanding of the basic programming concept using Python in the health research perspective
@@ -63,16 +63,27 @@ The course covers the fundamentals of Python programming and data analysis workf
 - Building and evaluating regressing model using scikit-learn(A machine learning library built with Python) 
 - Building and evaluating classification model using scikit-learn(A machine learning library built with Python) 
 
+### Aims 
+- Provides fundamentals of programming concepts through Python programming language. 
+- Provides a solid understanding of data analysis workflow in the field of health sciences(i.e. public health, health data science, genomic data science)
+- We aim to develop thought processes and guide the learners to develop their analyst mindset, which is essential to becoming a successful health data analyst or researcher.
+
+### Who this course is for
+- If you have no programming experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with. 
+- If you have no data analysis experience but want learn end-to-end data analysis process from data collection to report writing- then this course is a great one to start. 
+- If you have some experience but are not confident enough to start your project, you can start from here. 
+- If you are an undergrad student and planning to start your research journey, this course will surely also help you. 
+
+### Course Prerequisites
+There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed Python and Jupyter Notebook, and worked through a basic tutorial on Python Environment Setup.
+
+
 <h3 style="color:red;">
 News and Announcements
 </h3>
 
 - As much as possible we use the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9) for new announcements. 
 - [Slack](https://slack.com/) is a chatroom for discussion. The participants can interact with mentors, share their problems and solutions easily.
-
-### Course Prerequisites
-There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed Python and Jupyter Notebook, and worked through a basic tutorial on Python Environment Setup.
-
 
 ## Instructors
 
@@ -247,6 +258,13 @@ The [source files for the lecture notes are accessible on github](https://github
 
 
  </table>
+
+### Payment Procedure
+- **Amount:**  1500 Taka(BDT)
+- **Deadline:** June 30, 2021
+- **Payment Option:** bkash
+
+To pay and register, please see this [link](#). Enrolled students may request a full refund (minus the processing fee) following their first class attendance.
 
 ### Q&A
 
