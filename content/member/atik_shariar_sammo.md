@@ -6,7 +6,7 @@ name = "Md. Atik Shariar Sammo"
 portrait = "portraits/sammo-khan.jpg"
 short_bio = "I am Sammo, Md. Atik Shahriar Sammo. I am a 3rd year student at Jagannath University in Microbiology department. Health data science, bioinformatics, public health is some of my research interests."
 title = "Member"
-sort_position = 3
+sort_position = 7
 
 [[social]]
     icon = "envelope"

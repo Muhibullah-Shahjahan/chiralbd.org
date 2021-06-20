@@ -6,7 +6,7 @@ name = "Sumaiya Akter Mukta"
 portrait = "portraits/Sumaiya-Akter-Mukta.jpg"
 short_bio = "I am a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of my research interests. I founded the Health Data Research Organization as well."
 title = "Member"
-sort_position = 9
+sort_position = 5
 
 [[social]]
     icon = "envelope"

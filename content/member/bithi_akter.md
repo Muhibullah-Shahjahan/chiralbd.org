@@ -6,7 +6,7 @@ name = "Bithi Akter"
 portrait = "portraits/Bithi-Akter.jpeg"
 short_bio = "I  am a student in the faculty of Microbiology at Jagannath University. I am interested in Health data science & Industrial Microbiology. I am a research assistant  of  Health Data Research Organization (HDRO)."
 title = "Member"
-sort_position = 5
+sort_position = 8
 
 [[social]]
     icon = "envelope"
