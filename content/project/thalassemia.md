@@ -9,10 +9,31 @@ title = "Thalassemia"
 participants_block_position = "down"
 sort_position = 1
 
+
+[[participants]]
+    name = "Mohammad Ariful Islam, Ph.D"
+    id = "arif"
+    position = 1
+
 [[participants]]
     name = "Jubayer Hossain"
     id = "jhossain"
-    position = 1
+    position = 2
+[[participants]]
+    name = "Sumaiya Akter Mukta"
+    id = "sumaiya"
+    position = 3
+
+[[participants]]
+    name = "Md. Sharif Miah"
+    id = "sharif"
+    position = 4
+
+[[participants]]
+    name = "Rubaiya Gulshan"
+    id = "rubaiya"
+    position = 5
+
 +++
 
 ## Introduction 
