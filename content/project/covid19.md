@@ -10,9 +10,48 @@ participants_block_position = "down"
 sort_position = 1
 
 [[participants]]
+    name = "Sabia Sultana"
+    id = "sabia"
+    position = 1
+
+
+[[participants]]
     name = "Jubayer Hossain"
     id = "jhossain"
-    position = 1
+    position = 2
+
+
+[[participants]]
+    name = "Md. Atik Shariar Sammo"
+    id = "sammo"
+    position = 3
+
+
+[[participants]]
+    name = "Bithi Akter"
+    id = "bithi"
+    position = 4
+
+[[participants]]
+    name = "Susmita Jahan"
+    id = "susmita"
+    position = 5
+
+[[participants]]
+    name = "Sanjida Akter Sathy"
+    id = "sanjida"
+    position = 7
+
+[[participants]]
+    name = "Tanjum Ahmed Nodee"
+    id = "tanjum"
+    position = 7
+
+[[participants]]
+    name = "Ema Akter"
+    id = "ema"
+    position = 8
+
 +++
 
 ## Introduction 

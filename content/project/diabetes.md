@@ -9,10 +9,37 @@ title = "Diabetes"
 participants_block_position = "down"
 sort_position = 3
 
+[[participants]]
+    name = "Sumona Akter"
+    id = "sumona"
+    position = 1
 
 [[participants]]
     name = "Jubayer Hossain"
     id = "jhossain"
+    position = 2
+
+
+[[participants]]
+    name = "Bithi Akter"
+    id = "bithi"
+    position = 4
+
+[[participants]]
+    name = "Tanjum Ahmed Nodee"
+    id = "tanjum"
+    position = 5
+
+[[participants]]
+    name = "Muhibullah Shahjahan"
+    id = "muhibullah"
+    position = 6
+
+[[participants]]
+    name = "Tilottoma Roy"
+    id = "tilottoma"
+    position = 7
+
 +++
 
 

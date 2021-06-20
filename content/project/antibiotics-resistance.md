@@ -10,8 +10,24 @@ participants_block_position = "down"
 sort_position = 3
 
 [[participants]]
+    name = "Syedatasneem Towhid, Ph.D"
+    id = "tasneem"
+    position = 1
+
+[[participants]]
     name = "Jubayer Hossain"
     id = "jhossain"
+    position = 2
+
+[[participants]]
+    name = "Md. Atik Shariar Sammo"
+    id = "sammo"
+    position = 4
+
+[[participants]]
+    name = "Sumona Akter"
+    id = "sumona"
+    position = 5
 +++
 
 ## Introduction 
