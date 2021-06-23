@@ -36,5 +36,29 @@ sort_position = 1
 
 +++
 
-## Introduction 
+<!-- <img src="/img/projects/thalassemia/thalassemia.png" width="1200px" height="500px"> -->
+
+## 
+
 Thalassemia is a hereditary blood disorder that affects children and causes severe anemia. Each month, these patients require 1-2 bags of blood. Thalassemia is extremely prevalent in Bangladesh. 7% of our population is thalassemia positive, and 7000 new babies are born with thalassemia each year in Bangladesh. This disease is easily preventable with the right information and awareness.
+
+
+## Aims 
+
+- Create a strong partnership with different thalassemia hospitals in Bangladesh that provides national research capability in public health.
+- Engage with patients, the public, and practitioners through partnership hospitals and other bodies to deliver an acceptable approach to prevent thalassemia.  
+- Create a "Thalassemia Prevention Programme" at different universities in Bangladesh. 
+- To improve the quality of life of thalassemic children and their parents. 
+
+## Approach 
+The Health Data Research Organization works to create the **"Thalassemia Prevention Programme."** at different universities in Bangladesh. Currently, we are generating data about knowledge, attitude, and awareness towards thalassemia. Initially, We are working on the practice and knowledge towards thalassemia among public university students. 
+
+## The initiative from Health Data Research Organization
+{{< figure src="/img/projects/apon/apon.png" width="450px" class="right-inline" >}}
+
+**Apon** is a non-profit blood donation platform lead by [Health Data Research Organization](https://hdrobd.org/). Primarily Apon is dedicated to Thalassemia patients. As we know, Thalassemia patients need 1-2 bags of blood every month. It is challenging to manage this amount of blood of their own. However, if we work together, it will be easier for them. That is why Apon comes in.
+
+Previously, we managed donors by calling them on demand. It is not only for Thalassemia patients but also for all critical patients. However, why is Apon dedicated to Thalassemia now? There are many blood donation organizations out there that contribute a lot. In a critical moment, they managed blood for patients selflessly. That is why Apon is dedicated to thalassemia patients in Bangladesh.
+
+
+However, Bangladesh Thalassemia Foundation has a [registration porta](https://www.thals.org/blood/register_donor#/) to manage donors. We are trying to build an Android App for helping thalassemia patients. By using this app, they can manage donors location-wise easily. Initially, we work for Dhaka City. After that, we will extend our activities at the district level one by one.

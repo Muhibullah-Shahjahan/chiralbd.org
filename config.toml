@@ -167,16 +167,16 @@ tag = "tags"
     parent = "resources"
     weight = 10
 
-  # [[menu.main]]
-  #   name = "Join us"
-  #   url = "#open-projects"
-  #   weight = 7
-  #   identifier="joinus"
-  # [[menu.main]]
-  #   name = "Starter's guide"
-  #   url = "/research/starter-guide"
-  #   parent="joinus"
-  #   weight = 8 
+  [[menu.main]]
+    name = "Join us"
+    url = "#open-projects"
+    weight = 7
+    identifier="joinus"
+  [[menu.main]]
+    name = "Starter's guide"
+    url = "/research/starter-guide"
+    parent="joinus"
+    weight = 8 
 
   # [[menu.main]]
   #   name = "Open projects"

@@ -40,7 +40,7 @@ The course covers the fundamentals of Python programming and data analysis workf
 
 ### Course Description 
 - **Course Type:** Health Data Analytics
-- **Course Titl:** Python for Health Data Analytics
+- **Course Title:** Python for Health Data Analytics
 - **Course Duration:** 20 days(Approx.) 
 - **Total Time:** 40 hours(30 hours lecture + 10 hours problem solution)
 - **Total Classes:** 20 (18 classes + 2 projects)

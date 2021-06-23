@@ -12,7 +12,7 @@ title = "Health Impact for Distance Learning during COVID-19 among Jagannath Uni
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = ""
+url_project = "/project/covid19/"
 url_slides = ""
 url_video = ""
 
