@@ -53,6 +53,16 @@ Thalassemia is a hereditary blood disorder that affects children and causes seve
 ## Approach 
 The Health Data Research Organization works to create the **"Thalassemia Prevention Programme."** at different universities in Bangladesh. Currently, we are generating data about knowledge, attitude, and awareness towards thalassemia. Initially, We are working on the practice and knowledge towards thalassemia among public university students. 
 
+## On Going Survey: Declaration 
+This survey focuses on the knowledge, attitude, and awareness of students from different public universities of Bangladesh towards Thalassemia. Your kind participation in this survey will help our research.This survey is expected to be spontaneous. You are requested to fill the given questions based on your
+won knowledge. All the information collected for this survey is highly confidential and will be used for research purpose only.
+<iframe
+       src="https://forms.gle/64qbkKZ9ug4ZHDDYA"
+       width="100%"
+       height="1000px"
+       style="border:none;">
+ </iframe>
+
 ## The initiative from Health Data Research Organization
 {{< figure src="/img/projects/apon/apon.png" width="450px" class="right-inline" >}}
 
