@@ -60,5 +60,6 @@ The Health Data Research Organization works to create the **"Thalassemia Prevent
 
 Previously, we managed donors by calling them on demand. It is not only for Thalassemia patients but also for all critical patients. However, why is Apon dedicated to Thalassemia now? There are many blood donation organizations out there that contribute a lot. In a critical moment, they managed blood for patients selflessly. That is why Apon is dedicated to thalassemia patients in Bangladesh.
 
-
 However, Bangladesh Thalassemia Foundation has a [registration porta](https://www.thals.org/blood/register_donor#/) to manage donors. We are trying to build an Android App for helping thalassemia patients. By using this app, they can manage donors location-wise easily. Initially, we work for Dhaka City. After that, we will extend our activities at the district level one by one.
+
+{{<youtube 7DAGqkTWPwU>}}

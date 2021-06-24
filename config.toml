@@ -147,6 +147,7 @@ tag = "tags"
     weight = 6
     identifier = "resources"
     [[menu.main]]
+
     name = "Statistics"
     url = "#statistics"
     parent = "resources"
@@ -156,9 +157,10 @@ tag = "tags"
     url = "/resources/python"
     parent = "resources"
     weight = 8
+
     [[menu.main]]
     name = "R Programming"
-    url = "#statistics"
+    url = "/resources/r-programming"
     parent = "resources"
     weight = 9
     [[menu.main]]
