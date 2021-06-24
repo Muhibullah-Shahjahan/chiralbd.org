@@ -27,9 +27,9 @@ tag = "tags"
   address = '<a>Azimpur, 7/7, Dhaka, Bangladesh</a>'
   slogan = "HDRO<b>BD</b>"
   slogan_icon = "icon-spsbrats_logo"
-  slogan_text = "Lab for Gaining Health Insights from Data"
+  slogan_text = "Better Insights, Better Lives"
   custom_css = ["biaslab.css"]
-  landing_heading = "Lab for Gaining Health Insights from Data"
+  landing_heading = "Better Insights, Better Lives"
   landing_description = "We are a voluntary non-profit research platform, resolving to promote interdisciplinary research in the field of health data science, computational biology and genomics."
   positions_available = true
 
@@ -75,9 +75,9 @@ tag = "tags"
   # Section will only be displayed if there are posts in `content/post/`.
   [params.posts]
     count = 2
-    title = "Blog"
+    title = "News"
     subtitle = ""
-    str_all = "More Posts"
+    str_all = "More"
     str_read_more = "Read more"
 
   # Projects section.
@@ -85,7 +85,7 @@ tag = "tags"
   [params.projects]
     title = "Projects"
     subtitle = ""
-    count = 3
+    count = 4
     str_all = "More Projects"
 
   # Vacancies section
@@ -126,8 +126,8 @@ tag = "tags"
     parent="research"
     weight = 3
   [[menu.main]]
-    name = "Blog"
-    url = "/#posts"
+    name = "News"
+    url = "/#post"
     parent = "research"
     weight = 4
  
