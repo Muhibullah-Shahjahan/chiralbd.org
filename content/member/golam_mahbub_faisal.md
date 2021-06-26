@@ -2,7 +2,7 @@
 date = "2016-07-12T15:52:22+02:00"
 id = "faisal"
 interests = ["Public Health", "Health Data Analytics", "Bioinformatics"]
-name = "Md Wahidul Islam"
+name = "Golam Mahbub Faisal"
 portrait = "portraits/faisal.jpg"
 short_bio = ""
 title = "Member"
