@@ -17,6 +17,10 @@ url_slides = ""
 url_video = ""
 
 [[authors]]
+    name = "Sabia Sultana"
+    id = "sabia"
+
+[[authors]]
     name = "Jubayer Hossain"
     id = "jhossain"
 +++

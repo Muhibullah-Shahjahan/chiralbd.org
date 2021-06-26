@@ -4,7 +4,7 @@ id = "rubaiya"
 interests = ["Public Health", "Health Data Analytics", "Bioinformatics"]
 name = "Rubaiya Gulshan"
 portrait = "portraits/meem.jpeg"
-short_bio = "I am a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of my research interests. I founded the Health Data Research Organization as well."
+short_bio = "Rubaiya Gulshan is an undergraduate student at the department of Microbiology, Jagannath University."
 title = "Member"
 sort_position = 5
 
