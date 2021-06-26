@@ -1,10 +1,10 @@
 +++
 date = "2016-07-12T15:52:22+02:00"
 id = "sumona"
-interests = ["Public Health", "Health Data Analytics","Bioinformatics"]
+interests = ["Public Health","Bioinformatics"]
 name = "Sumona Akter"
 portrait = "portraits/Sumona-akter.jpg"
-short_bio = "I am a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of my research interests. I founded the Health Data Research Organization as well."
+short_bio = "I am a Microbiology Master’s student at Jagannath University who is passionate about research work . Working in a lab is something I enjoy doing. Aside from genetics, I'm interested in health data science, environmental science, bioinformatics, and public health. I work for the Health Data Research Organization as a Co-Director."
 title = "Member"
 sort_position = 6
 
@@ -34,8 +34,8 @@ sort_position = 6
     year = 2020
 
 [[organizations]]
-    #name = "Health Data Research Organization"
-    role = "Coordinator"
+    name = "Jagannath University"
+    role = "Graduate Student"
 
 +++
 

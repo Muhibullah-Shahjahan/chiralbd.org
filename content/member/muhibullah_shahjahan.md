@@ -26,12 +26,11 @@ sort_position = 15
 [[education]]
     course = "Studying BSc in Microbiology"
     institution = 'Jagannath University'
-    year = 2019
-
+    #year = 2019
 
 [[organizations]]
-    #name = "Health Data Research Organization"
-    role = "Research Trainee"
+    name = "Jagannath University"
+    role = "Undergraduate Student"
 
 +++
 

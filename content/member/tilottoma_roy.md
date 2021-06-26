@@ -26,26 +26,22 @@ sort_position = 12
 [[education]]
     course = "BSc in Microbiology"
     institution = 'Jagannath University'
-    year = 2018
+    #year = 2018
+
 
 [[organizations]]
-    #name = "Health Data Research Organization"
-    role = "Research Trainee"
+    name = "Jagannath University"
+    role = "Undergraduate Student"
 
 +++
 
-I  am a Microbiology Honour's student at Jagannath
-Universityand a Health Data Science enthusiast. Health data
-science, bioinformatics, public health are some of my research interests. I am
-a member of the Health
-Data Research Organization as well.
+At this moment I am a Microbiology Honour’s student at Jagannath
+University and a Health Data Science enthusiast. Health data science,
+public health are some of my research interests. I am working as a
+member of the Health Data Research Organization as well.
+As far I know The Health Data Research Organization (HDRO) is a non-
+profit organization dedicated to scientific research and dissemination
+using primary and secondary sources.
+I’m trying to learn new programming language as I can contribute my
+hard work in HDRO.
 
-The Health Data Research Organization (HDRO) is a non-profit
-organization dedicated to scientific research and dissemination using primary
-and secondary sources as well as third-party data. Students and young
-professionals with expertise in biological science and health science run the
-organization, which is supervised by university faculty members in the life
-sciences.
-
-Python is my go-to language for data mining and machine learning.
-I also have a limited understanding of R and SQL.

@@ -31,12 +31,11 @@ sort_position = 4
 [[education]]
     course = "MSc in Microbiology"
     institution = 'Jagannath University'
-    year = 2018
+    #year = 2018
 
 [[organizations]]
-    #name = "Health Data Research Organization"
-    role = "Founder"
-
+    name = "Health Data Research Organization"
+    role = "Founder & Instructor"
 +++
 
 Jubayer is a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of his research interests. He founded the Health Data Research Organization as well.

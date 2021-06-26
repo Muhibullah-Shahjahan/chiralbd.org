@@ -26,7 +26,7 @@ sort_position = 13
 [[education]]
     course = "BSc in Microbiology"
     institution = 'Jagannath University'
-    year = 2019
+    #year = 2019
 
 
 [[organizations]]

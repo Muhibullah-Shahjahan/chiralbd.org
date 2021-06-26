@@ -29,8 +29,8 @@ sort_position = 1
     year = 2018
 
 [[organizations]]
-    #name = "Health Data Research Organization"
-    role = "Supervisor"
+    name = "Jagannath University"
+    role = "Associate Professor"
 
 +++
 
