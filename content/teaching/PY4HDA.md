@@ -264,10 +264,8 @@ The [source files for the lecture notes are accessible on github](https://github
 - **Deadline:** June 30, 2021
 - **Payment Option:** bkash
 
-To pay and register, please see this [link](https://hdrobd.org/teaching/py4hda/). Enrolled students may request a full refund (minus the processing fee) following their first class attendance.
+To pay and register, please see this [link](https://forms.gle/1aZ18F5mHFQkHv1Z8). Enrolled students may request a full refund (minus the processing fee) following their first class attendance.
 
 ### Q&A
 
 Q&A for each lesson can  be accessed at the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9).
-
-
