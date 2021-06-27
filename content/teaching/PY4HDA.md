@@ -106,14 +106,14 @@ The [source files for the lecture notes are accessible on github](https://github
 
 <table border = "1">
          <tr>
-            <th rowspan = "2"; style="text-align:center">Date</th>
+            <th rowspan = "2"; style="text-align:center">Day</th>
             <th rowspan = "2"; style="text-align:center">Lessons</th>
             <th colspan = "3"; style="text-align:center">Materials</th>
          </tr>
          <tr>
             <th style="text-align:center">Video</th>
             <th style="text-align:center">Lecture Lotes</th>
-            <th style="text-align:center">Readings</th>
+            <th style="text-align:center">Reading Materials</th>
          </tr>
          <tr>
             <td>Day 1 </td>
@@ -121,7 +121,7 @@ The [source files for the lecture notes are accessible on github](https://github
             M1: Python Overview for Health Research</td>
             <td><a href="#">M0, M1</a></td>
             <td><a href="">M0</a>, <a href="#">M1</a></td>
-            <td><a href="#">Reading Resources</a></td>
+            <td><a href="#">Readinig 1</a></td>
          </tr>
          <tr>
             <td>Day 2</td>
@@ -129,132 +129,120 @@ The [source files for the lecture notes are accessible on github](https://github
               M3: Pyhton Control Flow: Loops</td>
             <td><a href="#">M2, M3</a></td>
             <td><a href="">M2</a>, <a href="#">M3</a></td>
-            <td><a href="#">Chapter 1</a></td>
-         </tr>
-        <tr>
-            <td>Day 2</td>
-            <td>M4: Python Functions: Built-in and User Defined Functions<br/>
-            M5: Functional Programming in Python</td>
-            <td><a href="#">M4, M5</a></td>
-            <td><a href="">M5</a>, <a href="#">M5</a></td>
-            <td><a href="#">Chapter 2</a></td>
+            <td><a href="#">Readinig 2</a></td>
          </tr>
         <tr>
             <td>Day 3</td>
-            <td>M5: Data Structures in Python: Part 1<br/>
-            M6: Data Structures in Python: Part 2</td>
-            <td><a href="#">M5, M6</a></td>
-            <td><a href="">M5</a>, <a href="#">M6</a></td>
-            <td><a href="#">Chapter 3</a></td>
-         </tr>
-         <tr>
-            <td>Day 4</td>
-            <td>M7: Files and Errors Handling<br/>
-            M8: Python Classes and Objects</td>
-            <td><a href="#">M7, M8</a></td>
-            <td><a href="">M7</a>, <a href="#">M8</a></td>
-            <td><a href="#">Chapter 4</a></td>
+            <td>M4: Python Functions: Built-in and User Defined Functions<br/>
+            M5: Functional Programming in Python</td>
+            <td><a href="#">M4, M5</a></td>
+            <td><a href="">M4</a>, <a href="#">M5</a></td>
+            <td><a href="#">Readinig 3</a></td>
          </tr>
         <tr>
+            <td>Day 4</td>
+            <td>M6: Data Structures in Python: Part 1<br/>
+            M7: Data Structures in Python: Part 2</td>
+            <td><a href="#">M6, M7</a></td>
+            <td><a href="">M6</a>, <a href="#">M7</a></td>
+            <td><a href="#">Readinig 4</a></td>
+         </tr>
+         <tr>
             <td>Day 5</td>
-            <td>M8: Introduction to Health Data Analytics Workflow<br/>
-            M9: Introduction to NumPy: Working with Multi Dimensional Array</td>
+            <td>M8: Files and Errors Handling<br/>
+            M9: Python Classes and Objects</td>
             <td><a href="#">M8, M9</a></td>
             <td><a href="">M8</a>, <a href="#">M9</a></td>
-            <td><a href="#">Chapter 5</a></td>
+            <td><a href="#">Readinig 5</a></td>
          </tr>
         <tr>
             <td>Day 6</td>
-            <td>M10: Introduction to Health Data Analytics Workflow<br/>
-            M11: Introduction to NumPy: Working with Multi Dimensional Array</td>
+            <td>M10: Working with Multidimentional Arrays with NumPy: Part 1<br/>
+             M11:Working with Multidimentional Arrays with NumPy: Part 2</td>
             <td><a href="#">M10, M11</a></td>
             <td><a href="">M10</a>, <a href="#">M11</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td><a href="#"> Reading 6</a></td>
          </tr>
         <tr>
             <td>Day 7</td>
-            <td>M12: Data Management with Pandas: Part 1</td>
-            <td><a href="#">M12</a></td>
-            <td><a href="">M12</a></td>
-            <td><a href="#">Chapter 2</a></td>
-         </tr>
-        <tr>
-            <td>Day 8</td>
-            <td>M13: Data Management with Pandas: Part 2</td>
-            <td><a href="#">M13</a></td>
-            <td><a href="">M13</a></td>
-            <td><a href="#">Chapter 3</a></td>
-         </tr>
-        <tr>
-            <td>Day 9</td>
-            <td>M14: Data Visualization with Matplotlib</td>
-            <td><a href="#">M14</a></td>
-            <td><a href="">M14</a></td>
-            <td><a href="#">Chapter 4</a></td>
-         </tr>
-        <tr>
-            <td>Day 10</td>
-            <td>M15: Data Visualization with Seaborn</td>
-            <td><a href="#">M15</a></td>
-            <td><a href="">M15</a></td>
-            <td><a href="#">Chapter 5</a></td>
-         </tr>
-        <tr>
-            <td>Day 11</td>
-            <td>M16: Introduction to Geopandas</td>
-            <td><a href="#">M16</a></td>
-            <td><a href="">M16</a></td>
-            <td><a href="#">Chapter 6</a></td>
-         </tr>
-        <tr>
-            <td>Day 12</td>
-            <td>M16: Introduction to Geopandas</td>
-            <td><a href="#">M16</a></td>
-            <td><a href="">M16</a></td>
-            <td><a href="#">Chapter 7</a></td>
-         </tr>
-        <tr>
-            <td>Day 13</td>
-            <td>M17: Interpreting Data Using Descriptive Statistics: Part 1</td>
-            <td><a href="#">M17</a></td>
-            <td><a href="">M17</a></td>
-            <td><a href="#">Chapter 1</a></td>
-         </tr>
-        <tr>
-            <td>Day 14</td>
-            <td>M18: Interpreting Data Using Descriptive Statistics: Part 2</td>
-            <td><a href="#">M18</a></td>
-            <td><a href="">M18</a></td>
-            <td><a href="#">Chapter 2</a></td>
-         </tr>
-        <tr>
-            <td>Day 15</td>
-            <td>M19: Interpreting Data Using Inferential Statistics: Part 1</td>
-            <td><a href="#">M19</a></td>
-            <td><a href="">M19</a></td>
-            <td><a href="#">Chapter 3</a></td>
-         </tr>
-        <tr>
-            <td>Day 16</td>
-            <td>M20: Interpreting Data Using Inferential Statistics: Part 2</td>
-            <td><a href="#">M20</a></td>
-            <td><a href="">M20</a></td>
-            <td><a href="#">Chapter 4</a></td>
+            <td>M12: Introduction to Biostatisics for Health Data Analytics(Theory)<br/>
+            M13: Importing and Exploring Data using Pandas(Practical)</td>
+            <td><a href="#">M12, M13</a></td>
+            <td><a href="">M12</a>, <a href="#">M13</a></td>
+            <td><a href="#">Reading 7</a></td>
          </tr>
          <tr>
-            <td>Day 17</td>
-            <td>M21: Building Regression Model Using Python</td>
-            <td><a href="#">M21</a></td>
-            <td><a href="">M21</a></td>
-            <td><a href="#">Chapter 1</a></td>
+            <td>Day 8</td>
+            <td>M13: Interpreting Data Using Descriptive Statistics: Part 1(Theory)<br/>
+            M14: Interpreting Data Using Descriptive Statistics: Part 1(Practical)</td>
+            <td><a href="#">M13, M14</a></td>
+            <td><a href="">M12</a>, <a href="#">M13</a></td>
+            <td><a href="#">Reading 8</a></td>
          </tr>
-        <tr>
-            <td>Day 18</td>
-            <td>M22: Building Classification Model Using Python</td>
-            <td><a href="#">M22</a></td>
-            <td><a href="">M22</a></td>
-            <td><a href="#">Chapter 2</a></td>
+         <tr>
+            <td>Day 9</td>
+            <td>M15: Interpreting Data Using Descriptive Statistics: Part 2(Theory)<br/>
+            M16: Interpreting Data Using Descriptive Statistics: Part 2(Practical)</td>
+            <td><a href="#">M15, M16</a></td>
+            <td><a href="">M15</a>, <a href="#">M16</a></td>
+            <td><a href="#">Reading 9</a></td>
          </tr>
+         <tr>
+            <td>Day 10</td>
+            <td>M17: Interpreting Data Using Descriptive Statistics: Part 3(Theory)<br/>
+            M18: Interpreting Data Using Descriptive Statistics: Part 3(Practical)</td>
+            <td><a href="#">M17, M18</a></td>
+            <td><a href="">M17</a>, <a href="#">M18</a></td>
+            <td><a href="#">Reading 10</a></td>
+         </tr>
+         <tr>
+            <td>Day 11</td>
+            <td>M19: Interpreting Data Using Inferential Statistics: Part 1(Theory)<br/>
+            M20: Interpreting Data Using Inferential Statistics: Part 1(Practical)</td>
+            <td><a href="#">M19, M20</a></td>
+            <td><a href="">M19</a>, <a href="#">M20</a></td>
+            <td><a href="#">Reading 11</a></td>
+         </tr>
+          <tr>
+            <td>Day 12</td>
+            <td>M21: Interpreting Data Using Inferential Statistics: Part 2(Theory)<br/>
+            M22: Interpreting Data Using Inferential Statistics: Part 2(Practical)</td>
+            <td><a href="#">M21, M22</a></td>
+            <td><a href="">M21</a>, <a href="#">M22</a></td>
+            <td><a href="#">Reading 12</a></td>
+         </tr>
+         <tr>
+            <td>Day 13</td>
+            <td>M22: Building and Evaluating Linear Regression Model: Part 1(Theory)<br/>
+            M23: Building and Evaluating Linear Regression Model: Part 2(Practical)</td>
+            <td><a href="#">M22, M23</a></td>
+            <td><a href="">M22</a>, <a href="#">M23</a></td>
+            <td><a href="#">Reading 13</a></td>
+         </tr>
+          <tr>
+            <td>Day 14</td>
+            <td>M24: Building and Evaluating Logistic Regression Model: Part 1(Theory)<br/>
+            M25: Building and Evaluating Logistic Regression Model: Part 2(Practical)</td>
+            <td><a href="#">M24, M25</a></td>
+            <td><a href="">M24</a>, <a href="#">M25</a></td>
+            <td><a href="#">Reading 14</a></td>
+         </tr>
+         <tr>
+            <td>Day 15</td>
+            <td>P1: Regression Project 
+            <td><a href="#">P1</a></td>
+            <td><a href="">P1</a></td>
+            <td><a href="#">None</a></td>
+         </tr>
+         <tr>
+            <td>Day 16</td>
+            <td>P2: Classification Project
+            <td><a href="#">P1</a></td>
+            <td><a href="">P2</a></td>
+            <td><a href="#">None</a></td>
+         </tr>
+       
+        
  </table>
 
 ### Payment Procedure
