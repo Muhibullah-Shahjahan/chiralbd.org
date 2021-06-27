@@ -116,7 +116,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <th style="text-align:center">Readings</th>
          </tr>
          <tr>
-            <td>01-July-2021</td>
+            <td>Day 1 </td>
             <td>M0: Course Syllabus Introduction and Python Environment Setup <br/>
             M1: Python Overview for Health Research</td>
             <td><a href="#">M0, M1</a></td>
@@ -124,7 +124,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading Resources</a></td>
          </tr>
          <tr>
-            <td>02-July-2021</td>
+            <td>Day 2</td>
             <td>M2: Pyhton Control Flow: Conditional Logic<br/>
               M3: Pyhton Control Flow: Loops</td>
             <td><a href="#">M2, M3</a></td>
@@ -132,7 +132,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Chapter 1</a></td>
          </tr>
         <tr>
-            <td>03-July-2021</td>
+            <td>Day 2</td>
             <td>M4: Python Functions: Built-in and User Defined Functions<br/>
             M5: Functional Programming in Python</td>
             <td><a href="#">M4, M5</a></td>
@@ -140,7 +140,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Chapter 2</a></td>
          </tr>
         <tr>
-            <td>04-July-2021</td>
+            <td>Day 3</td>
             <td>M5: Data Structures in Python: Part 1<br/>
             M6: Data Structures in Python: Part 2</td>
             <td><a href="#">M5, M6</a></td>
@@ -148,7 +148,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Chapter 3</a></td>
          </tr>
          <tr>
-            <td>05-July-2021</td>
+            <td>Day 4</td>
             <td>M7: Files and Errors Handling<br/>
             M8: Python Classes and Objects</td>
             <td><a href="#">M7, M8</a></td>
@@ -156,7 +156,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Chapter 4</a></td>
          </tr>
         <tr>
-            <td>06-July-2021</td>
+            <td>Day 5</td>
             <td>M8: Introduction to Health Data Analytics Workflow<br/>
             M9: Introduction to NumPy: Working with Multi Dimensional Array</td>
             <td><a href="#">M8, M9</a></td>
@@ -164,7 +164,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Chapter 5</a></td>
          </tr>
         <tr>
-            <td>07-July-2021</td>
+            <td>Day 6</td>
             <td>M10: Introduction to Health Data Analytics Workflow<br/>
             M11: Introduction to NumPy: Working with Multi Dimensional Array</td>
             <td><a href="#">M10, M11</a></td>
@@ -172,91 +172,89 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Chapter 1</a></td>
          </tr>
         <tr>
-            <td>08-July-2021</td>
+            <td>Day 7</td>
             <td>M12: Data Management with Pandas: Part 1</td>
             <td><a href="#">M12</a></td>
             <td><a href="">M12</a></td>
             <td><a href="#">Chapter 2</a></td>
          </tr>
         <tr>
-            <td>09-July-2021</td>
+            <td>Day 8</td>
             <td>M13: Data Management with Pandas: Part 2</td>
             <td><a href="#">M13</a></td>
             <td><a href="">M13</a></td>
             <td><a href="#">Chapter 3</a></td>
          </tr>
         <tr>
-            <td>10-July-2021</td>
+            <td>Day 9</td>
             <td>M14: Data Visualization with Matplotlib</td>
             <td><a href="#">M14</a></td>
             <td><a href="">M14</a></td>
             <td><a href="#">Chapter 4</a></td>
          </tr>
         <tr>
-            <td>11-July-2021</td>
+            <td>Day 10</td>
             <td>M15: Data Visualization with Seaborn</td>
             <td><a href="#">M15</a></td>
             <td><a href="">M15</a></td>
             <td><a href="#">Chapter 5</a></td>
          </tr>
         <tr>
-            <td>12-July-2021</td>
+            <td>Day 11</td>
             <td>M16: Introduction to Geopandas</td>
             <td><a href="#">M16</a></td>
             <td><a href="">M16</a></td>
             <td><a href="#">Chapter 6</a></td>
          </tr>
         <tr>
-            <td>13-July-2021</td>
+            <td>Day 12</td>
             <td>M16: Introduction to Geopandas</td>
             <td><a href="#">M16</a></td>
             <td><a href="">M16</a></td>
             <td><a href="#">Chapter 7</a></td>
          </tr>
         <tr>
-            <td>13-July-2021</td>
+            <td>Day 13</td>
             <td>M17: Interpreting Data Using Descriptive Statistics: Part 1</td>
             <td><a href="#">M17</a></td>
             <td><a href="">M17</a></td>
             <td><a href="#">Chapter 1</a></td>
          </tr>
         <tr>
-            <td>14-July-2021</td>
+            <td>Day 14</td>
             <td>M18: Interpreting Data Using Descriptive Statistics: Part 2</td>
             <td><a href="#">M18</a></td>
             <td><a href="">M18</a></td>
             <td><a href="#">Chapter 2</a></td>
          </tr>
         <tr>
-            <td>15-July-2021</td>
+            <td>Day 15</td>
             <td>M19: Interpreting Data Using Inferential Statistics: Part 1</td>
             <td><a href="#">M19</a></td>
             <td><a href="">M19</a></td>
             <td><a href="#">Chapter 3</a></td>
          </tr>
         <tr>
-            <td>16-July-2021</td>
+            <td>Day 16</td>
             <td>M20: Interpreting Data Using Inferential Statistics: Part 2</td>
             <td><a href="#">M20</a></td>
             <td><a href="">M20</a></td>
             <td><a href="#">Chapter 4</a></td>
          </tr>
          <tr>
-            <td>17-July-2021</td>
+            <td>Day 17</td>
             <td>M21: Building Regression Model Using Python</td>
             <td><a href="#">M21</a></td>
             <td><a href="">M21</a></td>
             <td><a href="#">Chapter 1</a></td>
          </tr>
         <tr>
-            <td>18-July-2021</td>
+            <td>Day 18</td>
             <td>M22: Building Classification Model Using Python</td>
             <td><a href="#">M22</a></td>
             <td><a href="">M22</a></td>
             <td><a href="#">Chapter 2</a></td>
          </tr>
-
-
  </table>
 
 ### Payment Procedure
