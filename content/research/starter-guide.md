@@ -5,6 +5,7 @@ date = "2020-07-19T8:50:58+02:00"
     name = "Jubayer Hossain"
     is_member = true
     link = "/jubayer"
+
 +++
 
 This document is a starter's guide for students or researchers who want to research undergraduate and graduate levels with Health Data Research Organization. Here is our research area, approach, the tools that we use. If you have any questions, please send us an email at **hdroba.org@gmail.com**
@@ -12,7 +13,7 @@ This document is a starter's guide for students or researchers who want to resea
 ## Research Area 
 In Health Data Research Organization, we conduct both public health and genomic data science research. Our aim to improve lives through data-driven decisions. 
 
-### Public Health - Health Data Science 
+### Public Health 
 According to [worldometers.info](https://www.worldometers.info/world-population/bangladesh-population/), Bangladesh, with a population of 166,275,884 million in 2021, is a country in South Asia. Bangladesh is one of the world's most densely populated countries, with a population density of 1265 people per $km^2$. In South-East Asia the main public health issues are infectious diseases and communicable diseases. Public health has improved markedly in Bangladesh over the past several decades. Nevertheless, Bangladesh faces major health challenges.Bangladesh is faced a number of health problems, which can be classified as follows:
 
 - Population problems
@@ -27,8 +28,7 @@ According to [worldometers.info](https://www.worldometers.info/world-population/
 - We are working to help policymakers to make data-driven decisions by using raw data. 
 
 ### Mission
-
-{{< figure src="/img/starter-guide/remote_sensing.jpg" width="450px" class="left-inline" >}}
+{{< figure src="/img/starter-guide/public_health.jpg" width="450px" class="right-inline" >}}
 
 We are interested in modern AI methods that support **automated design of signal processing systems**, in particular in the context of audio processing algorithms. For instance, if I have a problem with (the signal processing of) my hearing aid when I am at a cocktail party, I want to fix it right there so I can stay and enjoy the party. Today, there are no proper tools that support the end user in fine-tuning his hearing aid.  We aim to develop such a support tool, and our methods are inspired by theories about learning and adaptation in the fields of (Bayesian) **machine learning** and **computational neuroscience**. In particular, we derive inspiration from recent work in neuroscience that describes how brains perceive, learn and design their algorithms for speech and object recognition, navigation, etc. In our team, we are building a very efficient Bayesian machine learning toolbox ourselves and 'eat our own dogfood' by putting ourselves in complex acoustic situations and use our own tools to tune our audio processing algorithms. This leads to new demands on the toolbox, which drives our next research steps.
 
@@ -37,6 +37,23 @@ In short, **we work on (Bayesian) machine learning** methods with applications t
 ### Methodology
 
 I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you're doing research now. Find a simpler question that will put you on the path to an answer. Doing **research is a continuous process of adaptation** in _both_ posing the questions _and_ proposing solutions. In other words, *if you can't find the answer, change the question*! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming's lecture on 'You and Your Research', [video](http://www.youtube.com/watch?v=a1zDuOPkMSw "Hamming video, 1995") (1995) or [html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming html, 1986") (1986), and think about how this relates to your work.
+
+
+## GIS and Remote Sensing in Health Sciences 
+### Mission 
+{{< figure src="/img/starter-guide/remote_sensing.jpg" width="450px" class="left-inline" >}}
+I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you're doing research now. Find a simpler question that will put you on the path to an answer. Doing **research is a continuous process of adaptation** in _both_ posing the questions _and_ proposing solutions. In other words, *if you can't find the answer, change the question*! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming's lecture on 'You and Your Research', [video](http://www.youtube.com/watch?v=a1zDuOPkMSw "Hamming video, 1995") (1995) or [html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming html, 1986") (1986), and think about how this relates to your work.
+
+
+## Genomic Data Science 
+### Mission 
+{{< figure src="/img/starter-guide/genome.jpg" width="450px" class="right-inline" >}}
+
+I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you're doing research now. Find a simpler question that will put you on the path to an answer. Doing **research is a continuous process of adaptation** in _both_ posing the questions _and_ proposing solutions. In other words, *if you can't find the answer, change the question*! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming's lecture on 'You and Your Research', [video](http://www.youtube.com/watch?v=a1zDuOPkMSw "Hamming video, 1995") (1995) or [html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming html, 1986") (1986), and think about how this relates to your work.
+
+
+
+
 
 
 ## Workflow and Tools

@@ -125,6 +125,7 @@ tag = "tags"
     url = "/#publications"
     parent="research"
     weight = 3
+
   [[menu.main]]
     name = "News"
     url = "/#post"
@@ -179,7 +180,11 @@ tag = "tags"
     url = "/research/starter-guide"
     parent="joinus"
     weight = 8 
-
+    [[menu.main]]
+    name = "GDSC"
+    url = "/research/gdsc"
+    parent="joinus"
+    weight = 8 
   # [[menu.main]]
   #   name = "Open projects"
   #   url = "/open-projects"

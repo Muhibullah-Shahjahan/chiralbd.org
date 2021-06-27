@@ -264,7 +264,7 @@ The [source files for the lecture notes are accessible on github](https://github
 - **Deadline:** June 30, 2021
 - **Payment Option:** bkash
 
-To pay and register, please see this [link](#). Enrolled students may request a full refund (minus the processing fee) following their first class attendance.
+To pay and register, please see this [link](https://hdrobd.org/teaching/py4hda/). Enrolled students may request a full refund (minus the processing fee) following their first class attendance.
 
 ### Q&A
 
