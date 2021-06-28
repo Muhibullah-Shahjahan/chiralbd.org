@@ -84,7 +84,7 @@ Health data analytics, also known as clinical data analytics, involves the extra
         <tr>
            <td>HDA101</td>
            <td>Python for Health Data Analytics</td>
-           <td> <a href="#">Find out more</a></td>
+           <td> <a href="https://hdrobd.org/teaching/py4hda/">Find out more</a></td>
         </tr>
         <tr>
            <td>HDA102</td>
