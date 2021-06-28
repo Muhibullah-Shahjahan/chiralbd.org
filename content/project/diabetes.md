@@ -42,6 +42,11 @@ sort_position = 3
 
 +++
 
-
-## Introduction 
 Diabetes mellitus is associated with significant morbidity and mortality in Bangladesh, where healthcare facilities and accessibility are inadequate. Diabetes is also linked to heart disease, stroke, and kidney failure. The secret to achieving clinical goals in ambulatory treatment is assumed to be sufficient patient awareness of self-care. In Bangladesh, there are a few studies on the relationship between awareness and self-care practices among type 2 diabetes patients, but none are recent. Despite this, little research has been done on type 1 diabetes patients' self-care habits and awareness.The foundation of DM management is diabetes education combined with adequate motivation of patients and caregivers.
+
+## Working Papers 
+1. [Self Management And Knowledge of Diabetic Patients in Bangladesh and the Prevalence rate of Diabetes](https://hdrobd.org/publication/self-management-and-knowledge-of-diabetic-patients-in-bangladesh-and-the-prevalence-rate-of-diabetes/)
+2. [A survey on the general concept of diabetes among students of different universities in
+Bangladesh](#)
+3. [A survey on the general concept of diabetes among villagers of different districts in
+Bangladesh](#)

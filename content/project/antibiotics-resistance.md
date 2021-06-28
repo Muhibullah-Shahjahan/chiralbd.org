@@ -30,7 +30,6 @@ sort_position = 3
     position = 5
 +++
 
-## Introduction 
 Antibiotics either are cytotoxic or cytostatic to the micro-organisms, allowing the body’s natural defences, such as the immune system, to eliminate them. They often act by inhibiting the synthesis of a bacterial cell, synthesis of proteins, deoxyribonucleic acid (DNA), ribonucleic acid (RNA), by a membrane disorganizing agent, or other specific actions. Antibiotics may also enter the cell wall of the bacteria by binding to them, using the energy-dependent transport mechanisms in ribosomal sites, which subsequently lead to the inhibition of the protein synthesis.
 
 ## Objectives
@@ -40,3 +39,6 @@ Antibiotics either are cytotoxic or cytostatic to the micro-organisms, allowing 
 - Optimize the use of antimicrobial medicines in human and animal health.
 - Develop the economic case for sustainable investment that takes account of the needs of all countries and to increase investment in new medicines, diagnostic tools, vaccines and other interventions.
 
+## Working Papers 
+1. [Perception of Students on Antibiotic Resistance and Prevention: An internet-based community case study from Dhaka, Bangladesh](https://hdrobd.org/publication/perception-of-students-on-antibiotic-resistance-and-prevention-an-internet-based-community-case-study-from-dhaka-bangladesh/)
+2. [Public Perception on the Spread of Antibiotic Resistance in Bangladesh](#)
