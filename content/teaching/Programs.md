@@ -13,9 +13,13 @@ type = "teaching"
     name = "Jubayer Hossain"
     is_member = true
     id = "jhossain"
-    position = 3
+    position = 1
 
-
+[[participants]]
+    name = "Md. Atik Shariar Sammo"
+    is_member = true
+    id = "sammo"
+    position = 2
 
 +++
 
@@ -25,58 +29,105 @@ HDRO runs different programs regarding health data analytics, bioinformatics, ge
 ## Scientific Computing for Biologists
 Scientific computing is the collection of tools, techniques, and theories required to solve the mathematical models of problems in science and engineering on a computer. However, now scientific computing plays a vital role in health sciences; we enable scientific computing to solve genomic problems and improve public health. We have several courses on scientific computing, including Introduction to Scientific Computing with Python, Introduction to Scientific Computing with R, and Introduction to Scientific Computing with Julia. 
 
-### [Introduction to Scientific Computing with Python](http://hdrobd.org/teaching/iscb_python/)
-- **Program:** Scientific Computing for Biologists
-- **Course Title:** Introduction to Scientific Computing with Python
-- **Course Duration:** 20 days(Approx.) 
-- **Total Time:** 40 hours(30 hours lecture + 10 hours problem solution)
-- **Total Classes:** 20 (18 classes + 2 projects)
-- **Assignments:** 7 (5 problem sets + 2 projects) 
-- **Benifits:** Free reading materials, waiver for any future HDRO training. 
-- **Reward:** Based on the performance 5 students will be given **Research Assistantship(RA)**
-    oppurtunities to conduct health research with HDRO research team. 
-- **Medium:** Zoom/Google Meet
-- **Course Page:** [Find out more](http://hdrobd.org/teaching/iscb_python/) 
+<table border = "1">
+        <tr>
+            <th style="text-align:center">Course Code</th>
+            <th style="text-align:center">Course Name</th>
+            <th style="text-align:center">Course Website</th>
+        </tr>
+        <tr>
+           <td>ISCB101</td>
+           <td>Introduction to Scientific Computing for Biologists with Python</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>ISCB102</td>
+           <td>Introduction to Scientific Computing for Biologists with R</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>ISCB103</td>
+           <td>Introduction to Scientific Computing for Biologists Julia</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+      <tr>
+           <td>ASCB101</td>
+           <td>Advance Scientific Computing for Biologists with Python</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+      <tr>
+           <td>ASCB102</td>
+           <td>Advance Scientific Computing for Biologists with R</td>
+           <td> <a href="#">Find out more</a></td>
+    </tr>
+    <tr>
+           <td>ASCB103</td>
+           <td>Advance Scientific Computing for Biologists with Julia</td>
+           <td> <a href="#">Find out more</a></td>
+    </tr>
+ </table>
 
 
-### [Introduction to Scientific Computing with R](http://hdrobd.org/teaching/iscb_r/)
-- **Program:** Scientific Computing for Biologists
-- **Course Title:** Introduction to Scientific Computing with R
-- **Course Duration:** 20 days(Approx.) 
-- **Total Time:** 40 hours(30 hours lecture + 10 hours problem solution)
-- **Total Classes:** 20 (18 classes + 2 projects)
-- **Assignments:** 7 (5 problem sets + 2 projects) 
-- **Benifits:** Free reading materials, waiver for any future HDRO training. 
-- **Reward:** Based on the performance 5 students will be given **Research Assistantship(RA)**
-    oppurtunities to conduct health research with HDRO research team. 
-- **Medium:** Zoom/Google Meet
-- **Course Page:** [Find out more](http://hdrobd.org/teaching/iscb_r/) 
-
-### [Introduction to Scientific Computing with Julia](http://hdrobd.org/teaching/iscb_julia/)
-- **Program:** Scientific Computing for Biologists
-- **Course Title:** Introduction to Scientific Computing with Python
-- **Course Duration:** 20 days(Approx.) 
-- **Total Time:** 40 hours(30 hours lecture + 10 hours problem solution)
-- **Total Classes:** 20 (18 classes + 2 projects)
-- **Assignments:** 7 (5 problem sets + 2 projects) 
-- **Benifits:** Free reading materials, waiver for any future HDRO training. 
-- **Reward:** Based on the performance 5 students will be given **Research Assistantship(RA)**
-    oppurtunities to conduct health research with HDRO research team. 
-- **Medium:** Zoom/Google Meet
-- **Course Page:** [Find out more](http://hdrobd.org/teaching/iscb_julia/) 
 
 
 ## Health Data Analytics 
+Scientific computing is the collection of tools, techniques, and theories required to solve the mathematical models of problems in science and engineering on a computer. However, now scientific computing plays a vital role in health sciences; we enable scientific computing to solve genomic problems and improve public health. We have several courses on scientific computing, including Introduction to Scientific Computing with Python, Introduction to Scientific Computing with R, and Introduction to Scientific Computing with Julia. 
 
-### [Python for Health Data Analytics](http://hdrobd.org/teaching/py4hda/) 
-- **Course Type:** Health Data Analytics
-- **Course Title:** Python for Health Data Analytics
-- **Course Duration:** 20 days(Approx.) 
-- **Total Time:** 40 hours(30 hours lecture + 10 hours problem solution)
-- **Total Classes:** 20 (18 classes + 2 projects)
-- **Assignments:** 7 (5 problem sets + 2 projects) 
-- **Benifits:** Free reading materials, waiver for any future HDRO training. 
-- **Reward:** Based on the performance 5 students will be given **Research Assistantship(RA)**
-    oppurtunities to conduct health research with HDRO research team. 
-- **Medium:** Zoom/Google Meet
-- **Course Page:** [Find out more](http://hdrobd.org/teaching/py4hda/) 
+<table border = "1">
+        <tr>
+            <th style="text-align:center">Course Code</th>
+            <th style="text-align:center">Course Name</th>
+            <th style="text-align:center">Course Website</th>
+        </tr>
+        <tr>
+           <td>HDA101</td>
+           <td>Python for Health Data Analytics</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>HDA102</td>
+           <td>Python for Advance Health Data Analytics</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>HDA103</td>
+           <td>SQL for Health Data Analytics</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+      <tr>
+           <td>HDA104</td>
+           <td>R for Health Data Analytics</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+      <tr>
+           <td>HDA105</td>
+           <td>R for Advance Health Data Analytics</td>
+           <td> <a href="#">Find out more</a></td>
+    </tr>
+ </table>
+
+
+
+## GIS and Remote Sensing in Public Health
+Scientific computing is the collection of tools, techniques, and theories required to solve the mathematical models of problems in science and engineering on a computer. However, now scientific computing plays a vital role in health sciences; we enable scientific computing to solve genomic problems and improve public health. We have several courses on scientific computing, including Introduction to Scientific Computing with Python, Introduction to Scientific Computing with R, and Introduction to Scientific Computing with Julia. 
+
+<table border = "1">
+        <tr>
+            <th style="text-align:center">Course Code</th>
+            <th style="text-align:center">Course Name</th>
+            <th style="text-align:center">Course Website</th>
+        </tr>
+        <tr>
+           <td>GIS101</td>
+           <td>Introduction to QGIS</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>GIS101</td>
+           <td>Python for Geospatial Data Analysis</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+ </table>
+
+
+
