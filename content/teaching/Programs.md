@@ -71,7 +71,9 @@ Scientific computing is the collection of tools, techniques, and theories requir
 
 
 ## Health Data Analytics 
-Scientific computing is the collection of tools, techniques, and theories required to solve the mathematical models of problems in science and engineering on a computer. However, now scientific computing plays a vital role in health sciences; we enable scientific computing to solve genomic problems and improve public health. We have several courses on scientific computing, including Introduction to Scientific Computing with Python, Introduction to Scientific Computing with R, and Introduction to Scientific Computing with Julia. 
+Health data analytics, also known as clinical data analytics, involves the extrapolation of actionable insights from sets of patient data, typically collected from electronic health records (EHRs).The growing need is spurred by the recent major challenge of population health management (PHM), widely seen as the most effective approach to improving healthcare delivery among diverse groups of people while lowering costs to providers. Posing difficulties to PHM and the data mining involved is an ever-expanding patient base, compounded by the addition of new patients under the Affordable Care Act and the shift toward new payment models that it requires.
+
+
 
 <table border = "1">
         <tr>
@@ -109,7 +111,7 @@ Scientific computing is the collection of tools, techniques, and theories requir
 
 
 ## GIS and Remote Sensing in Public Health
-Scientific computing is the collection of tools, techniques, and theories required to solve the mathematical models of problems in science and engineering on a computer. However, now scientific computing plays a vital role in health sciences; we enable scientific computing to solve genomic problems and improve public health. We have several courses on scientific computing, including Introduction to Scientific Computing with Python, Introduction to Scientific Computing with R, and Introduction to Scientific Computing with Julia. 
+Geographic information systems (GIS) are computer-based tools for storing, visualizing, analyzing, and interpreting geographic data. These data include anything that can be linked to a geographic location or, more simply, anything that can be mapped. Spatial data includes, but is not limited to, disease cases, hospitals, roads, waterways, country boundaries, and health catchment areas. Typically, data in a GIS contain attributes, or descriptive information. For instance, you may have a data set of hospitals in the United States that you can map.
 
 <table border = "1">
         <tr>
