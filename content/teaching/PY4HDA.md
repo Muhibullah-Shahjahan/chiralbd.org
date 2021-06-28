@@ -241,8 +241,6 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="">P2</a></td>
             <td><a href="#">None</a></td>
          </tr>
-       
-        
  </table>
 
 ### Payment Procedure
