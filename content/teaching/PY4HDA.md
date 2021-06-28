@@ -38,17 +38,63 @@ The "Python for Health Data Analytics" will start in July 2021.
 The course covers the fundamentals of Python programming and data analysis workflow. We will focus on data cleaning, management, and visualizations through a case study approach. We also focus on working with statistical problems, both descriptive and inferential techniques in health research. The basics of statistical model building and evaluating healthcare perspectives will be used in this course.  
 
 
-### Course Description 
-- **Course Type:** Health Data Analytics
-- **Course Title:** Python for Health Data Analytics
-- **Course Duration:** 20 days(Approx.) 
-- **Total Time:** 40 hours(30 hours lecture + 10 hours problem solution)
-- **Total Classes:** 20 (18 classes + 2 projects)
-- **Assignments:** 7 (5 problem sets + 2 projects) 
-- **Benifits:** Free reading materials, waiver for any future HDRO training. 
-- **Reward:** Based on the performance 5 students will be given **Research Assistantship(RA)**
-    oppurtunities to conduct health research with HDRO research team. 
-- **Medium:** Zoom/Google Meet
+<table border = "1">
+        <tr>
+            <th style="text-align:center"></th>
+            <th style="text-align:center">Description</th>
+        </tr>
+        <tr>
+           <td>Program</td>
+           <td> <a href="https://hdrobd.org/teaching/py4hda/">Health Data Analytics</a></td>
+        </tr>
+        <tr>
+           <td>Course Title</td>
+           <td>Python for Health Data Analytics</td>
+        </tr>
+        <tr>
+           <td>Course Duration</td>
+           <td>20 days (Apporx.)</td>
+        </tr>
+         <tr>
+           <td>Course Hours</td>
+           <td>40 hours(30 hours lecture + 10 hours problem solution)</td>
+        </tr>
+          <tr>
+           <td>Total Classes</td>
+           <td>20 (18 classes + 2 projects)</td>
+        </tr>
+        <tr>
+           <td>Assignments</td>
+           <td> 7 (5 problem sets + 2 projects) </td>
+        </tr>
+         <tr>
+           <td>Benifits</td>
+           <td> Free reading materials, waiver for any future HDRO training.</td>
+        </tr>
+         <tr>
+           <td>Reward</td>
+           <td>  Based on the performance 5 students will be given Research Assistantship(RA)oppurtunities to conduct health research with HDRO research team. </td>
+        </tr>
+        <tr>
+           <td>Medium</td>
+           <td>Zoom/Google Meet</td>
+        </tr>
+        <tr>
+           <td>Class Time</td>
+           <td>9:30 PM (Everyday)</td>
+        </tr>
+        <tr>
+           <td>Expected Starting Date</td>
+           <td>7 July, 2021</td>
+        </tr>
+        <tr>
+           <td>Expected Ending Date</td>
+           <td>24 July, 2021</td>
+        </tr>
+       
+ </table>
+
+
 
 ### Learning Objectives
 - Understanding of the basic programming concept using Python in the health research perspective
