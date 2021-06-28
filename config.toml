@@ -138,7 +138,7 @@ tag = "tags"
 
   [[menu.main]]
     name = "Teaching"
-    url = "/teaching/programmes"
+    url = "/teaching/Programs"
     weight = 6
   [[menu.main]]
 
