@@ -1,17 +1,18 @@
 +++
 date = "2016-07-12T15:52:22+02:00"
 id = "faisal"
-interests = ["Public Health", "Health Data Analytics", "Bioinformatics"]
+interests = ["Genomics & Metagenomics", "Zoonoses & Public Health", "Veterinary Epidemiology", "Bioinformatics"]
+
 name = "Golam Mahbub Faisal"
 portrait = "portraits/faisal.jpg"
-short_bio = ""
+short_bio = "Golam Mahbub Faisal is currently enrolled in Doctor of Veterinary Medicine (DVM) program at Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU), Bangladesh."
 title = "Member"
 sort_position = 10
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:wahid.arafathdro@gmail.com"
+    link = "mailto:golammahbub00@gmail.com"
 
 [[social]]
     icon = "github"
@@ -21,15 +22,16 @@ sort_position = 10
 [[social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/wahid-arafat-a3057818a/"
+    link = "https://www.linkedin.com/in/golam-mahbub-faisal/"
 
 [[education]]
-    course = "BSc in Microbiology"
-    institution = 'Jagannath University'
+    course = "DVM Candidate"
+    institution = 'Bangabandhu Sheikh Mujibur Rahman Agricultural University'
     #year = 2019
 
 [[organizations]]
     name = "BSMRAU"
-    role = "Undergraduate Student"
-
+    role = "DVM Candidate"
 +++
+Golam Mahbub Faisal is currently enrolled in Doctor of Veterinary Medicine (DVM) program at Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU), Bangladesh.  
+He has his field of interest on Genomics & Metagenomics, Zoonoses & Public Health, and Veterinary Epidemiology & One Health approach. He would also love to have some expertise in Bioinformatics. 
