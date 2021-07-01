@@ -16,6 +16,12 @@ type = "teaching"
     position = 1
 
 [[participants]]
+    name = "Syedatasneem Towhid, Ph.D"
+    is_member = true
+    id = "tasneem"
+    position = 3
+
+[[participants]]
     name = "Md. Atik Shariar Sammo"
     is_member = true
     id = "sammo"
@@ -33,100 +39,174 @@ Scientific computing is the collection of tools, techniques, and theories requir
         <tr>
             <th style="text-align:center">Course Code</th>
             <th style="text-align:center">Course Name</th>
+            <th style="text-align:center">Level</th>
             <th style="text-align:center">Course Website</th>
         </tr>
         <tr>
-           <td>ISCB101</td>
-           <td>Introduction to Scientific Computing for Biologists with Python</td>
+           <td>SCB01</td>
+           <td>Introduction to UNIX/Linux for Biologists</td>
+           <td>Introductory</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+         <tr>
+           <td>SCB02</td>
+           <td>Introduction to R for Biologists</td>
+           <td>Introductory</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
         <tr>
-           <td>ISCB102</td>
-           <td>Introduction to Scientific Computing for Biologists with R</td>
+           <td>SCB03</td>
+           <td>Statistical Analysis in Bioinformatics</td>
+           <td>Introductory</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
         <tr>
-           <td>ISCB103</td>
-           <td>Introduction to Scientific Computing for Biologists Julia</td>
+           <td>SCB04</td>
+           <td>Biological Data Visualization in R</td>
+            <td>Introductory</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>SCB05</td>
+           <td>Bioconductor for Genomic Data Science</td>
+            <td>Intermediate</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
       <tr>
-           <td>ASCB101</td>
-           <td>Advance Scientific Computing for Biologists with Python</td>
+           <td>SCB06</td>
+           <td>Statistics for Genomic Data Science with R</td>
+            <td>Intermediate</td>
+           <td> <a href="#">Find out more</a></td>
+      </tr>
+      <tr>
+           <td>SCB07</td>
+           <td>Statistical Analysis of Genomics Data with R</td>
+            <td>Advance</td>
+           <td> <a href="#">Find out more</a></td>
+      </tr>
+      <tr>
+           <td>SCB08</td>
+           <td>Mutational Signature Analysis with R</td>
+            <td>Advance</td>
+           <td> <a href="#">Find out more</a></td>
+      </tr>
+      <tr>
+           <td>SCB09</td>
+           <td>Introduction to Python for Biologists</td>
+           <td>Introductory</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
-      <tr>
-           <td>ASCB102</td>
-           <td>Advance Scientific Computing for Biologists with R</td>
+        <tr>
+           <td>SCB10</td>
+           <td>Python for Bioinformatics (Biopython, Scikit-bio, Biotte)</td>
+           <td>Introductory</td>
            <td> <a href="#">Find out more</a></td>
-    </tr>
-    <tr>
-           <td>ASCB103</td>
-           <td>Advance Scientific Computing for Biologists with Julia</td>
+        </tr>
+        <tr>
+           <td>SCB11</td>
+           <td>Python for Cheminformatics(RDKit, Biopandas)</td>
+           <td>Intermediate</td>
            <td> <a href="#">Find out more</a></td>
-    </tr>
+        </tr>
+        <tr>
+           <td>SCB12</td>
+           <td>Machine Learning for Bioinformatics with Python</td>
+            <td>Advance</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+         <tr>
+           <td>SCB13</td>
+           <td>Introduction to Julia for Biologists</td>
+           <td>Introductory</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>SCB14</td>
+           <td>Julia for Bioinformatics</td>
+           <td>Introductory</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+
  </table>
-
-
 
 
 ## Health Data Analytics 
 Health data analytics, also known as clinical data analytics, involves the extrapolation of actionable insights from sets of patient data, typically collected from electronic health records (EHRs).The growing need is spurred by the recent major challenge of population health management (PHM), widely seen as the most effective approach to improving healthcare delivery among diverse groups of people while lowering costs to providers. Posing difficulties to PHM and the data mining involved is an ever-expanding patient base, compounded by the addition of new patients under the Affordable Care Act and the shift toward new payment models that it requires.
 
-
-
+### Health Data Analytics with R 
 <table border = "1">
         <tr>
             <th style="text-align:center">Course Code</th>
             <th style="text-align:center">Course Name</th>
+            <th style="text-align:center">Level</th>
             <th style="text-align:center">Course Website</th>
         </tr>
         <tr>
-           <td>HDA101</td>
-           <td>Python for Health Data Analytics</td>
-           <td> <a href="https://hdrobd.org/teaching/py4hda/">Find out more</a></td>
-        </tr>
-        <tr>
-           <td>HDA102</td>
-           <td>Python for Advance Health Data Analytics</td>
+           <td>HDA01</td>
+           <td>Biostatistics with R for Public Health</td>
+           <td>Introductory</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
         <tr>
-           <td>HDA103</td>
-           <td>SQL for Health Data Analytics</td>
+           <td>HDA02</td>
+           <td>Basic Concepts in Quantitative Research</td>
+           <td>Intermediate</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+         <tr>
+           <td>HDA03</td>
+           <td>Questionnaires and Surveys: Analyses with R</td>
+           <td>Intermediate</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>HDA04</td>
+           <td>Machine Learning with R for Public Health</td>
+           <td>Advance</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>HDA05</td>
+           <td>Biostatistics with Python for Public Health</td>
+            <td>Introductory</td>
+           <td> <a href="#">Find out more</a></td>
+        </tr>
+        <tr>
+           <td>HDA06</td>
+           <td>Questionnaires and Surveys: Analyses with Python</td>
+            <td>Intermediate</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
       <tr>
-           <td>HDA104</td>
-           <td>R for Health Data Analytics</td>
+           <td>HDA07</td>
+           <td>Machine Learning with R for Public Health</td>
+            <td>Advance</td>
            <td> <a href="#">Find out more</a></td>
-        </tr>
-      <tr>
-           <td>HDA105</td>
-           <td>R for Advance Health Data Analytics</td>
-           <td> <a href="#">Find out more</a></td>
-    </tr>
+      </tr>
+     
  </table>
-
 
 
 ## GIS and Remote Sensing in Public Health
 Geographic information systems (GIS) are computer-based tools for storing, visualizing, analyzing, and interpreting geographic data. These data include anything that can be linked to a geographic location or, more simply, anything that can be mapped. Spatial data includes, but is not limited to, disease cases, hospitals, roads, waterways, country boundaries, and health catchment areas. Typically, data in a GIS contain attributes, or descriptive information. For instance, you may have a data set of hospitals in the United States that you can map.
 
 <table border = "1">
-        <tr>
+       <tr>
             <th style="text-align:center">Course Code</th>
             <th style="text-align:center">Course Name</th>
+            <th style="text-align:center">Level</th>
             <th style="text-align:center">Course Website</th>
         </tr>
         <tr>
            <td>GIS101</td>
            <td>Introduction to QGIS</td>
+            <td>Introductory</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
         <tr>
            <td>GIS101</td>
            <td>Python for Geospatial Data Analysis</td>
+            <td>Intermediate</td>
            <td> <a href="#">Find out more</a></td>
         </tr>
  </table>
