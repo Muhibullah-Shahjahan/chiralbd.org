@@ -55,7 +55,7 @@ The Health Data Research Organization works to create the **"Thalassemia Prevent
 
 ## Working Papers 
 1. [Knowledge and Attitudes of Thalassemia among Public University Students in Bangladesh](#)
-2. [Quality of Life of Thalassemic Children in Bangladesh](#)
+2. [Quality of Life among Bangladeshi Patients with Thalassemia using the SF-36 Questionnaire](#) [Proposed]
 
 
 ## On Going Survey: Declaration 
