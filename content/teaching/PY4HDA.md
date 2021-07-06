@@ -162,7 +162,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <th style="text-align:center">Reading Materials</th>
          </tr>
          <tr>
-            <td>Day 1 </td>
+            <td>8 July 2021</td>
             <td>M0: Course Syllabus Introduction and Python Environment Setup <br/>
             M1: Python Overview for Health Research</td>
             <td><a href="#">M0, M1</a></td>
@@ -170,7 +170,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Readinig 1</a></td>
          </tr>
          <tr>
-            <td>Day 2</td>
+            <td>9 July 2021</td>
             <td>M2: Pyhton Control Flow: Conditional Logic<br/>
               M3: Pyhton Control Flow: Loops</td>
             <td><a href="#">M2, M3</a></td>
@@ -178,7 +178,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Readinig 2</a></td>
          </tr>
         <tr>
-            <td>Day 3</td>
+            <td>10 July 2021</td>
             <td>M4: Python Functions: Built-in and User Defined Functions<br/>
             M5: Functional Programming in Python</td>
             <td><a href="#">M4, M5</a></td>
@@ -186,7 +186,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Readinig 3</a></td>
          </tr>
         <tr>
-            <td>Day 4</td>
+            <td>11 July 2021</td>
             <td>M6: Data Structures in Python: Part 1<br/>
             M7: Data Structures in Python: Part 2</td>
             <td><a href="#">M6, M7</a></td>
@@ -194,7 +194,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Readinig 4</a></td>
          </tr>
          <tr>
-            <td>Day 5</td>
+            <td>12 July 2021</td>
             <td>M8: Files and Errors Handling<br/>
             M9: Python Classes and Objects</td>
             <td><a href="#">M8, M9</a></td>
@@ -202,7 +202,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Readinig 5</a></td>
          </tr>
         <tr>
-            <td>Day 6</td>
+            <td>15 July 2021</td>
             <td>M10: Working with Multidimentional Arrays with NumPy: Part 1<br/>
              M11:Working with Multidimentional Arrays with NumPy: Part 2</td>
             <td><a href="#">M10, M11</a></td>
@@ -210,7 +210,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#"> Reading 6</a></td>
          </tr>
         <tr>
-            <td>Day 7</td>
+            <td>16 July 2021</td>
             <td>M12: Introduction to Biostatisics for Health Data Analytics(Theory)<br/>
             M13: Importing and Exploring Data using Pandas(Practical)</td>
             <td><a href="#">M12, M13</a></td>
@@ -218,7 +218,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 7</a></td>
          </tr>
          <tr>
-            <td>Day 8</td>
+            <td>17 July 2021</td>
             <td>M13: Interpreting Data Using Descriptive Statistics: Part 1(Theory)<br/>
             M14: Interpreting Data Using Descriptive Statistics: Part 1(Practical)</td>
             <td><a href="#">M13, M14</a></td>
@@ -226,7 +226,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 8</a></td>
          </tr>
          <tr>
-            <td>Day 9</td>
+            <td>18 July 2021</td>
             <td>M15: Interpreting Data Using Descriptive Statistics: Part 2(Theory)<br/>
             M16: Interpreting Data Using Descriptive Statistics: Part 2(Practical)</td>
             <td><a href="#">M15, M16</a></td>
@@ -234,7 +234,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 9</a></td>
          </tr>
          <tr>
-            <td>Day 10</td>
+            <td>19 July 2021</td>
             <td>M17: Interpreting Data Using Descriptive Statistics: Part 3(Theory)<br/>
             M18: Interpreting Data Using Descriptive Statistics: Part 3(Practical)</td>
             <td><a href="#">M17, M18</a></td>
@@ -242,7 +242,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 10</a></td>
          </tr>
          <tr>
-            <td>Day 11</td>
+            <td>23 July 2021</td>
             <td>M19: Interpreting Data Using Inferential Statistics: Part 1(Theory)<br/>
             M20: Interpreting Data Using Inferential Statistics: Part 1(Practical)</td>
             <td><a href="#">M19, M20</a></td>
@@ -250,7 +250,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 11</a></td>
          </tr>
           <tr>
-            <td>Day 12</td>
+            <td>24 July 2021</td>
             <td>M21: Interpreting Data Using Inferential Statistics: Part 2(Theory)<br/>
             M22: Interpreting Data Using Inferential Statistics: Part 2(Practical)</td>
             <td><a href="#">M21, M22</a></td>
@@ -258,7 +258,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 12</a></td>
          </tr>
          <tr>
-            <td>Day 13</td>
+            <td>25 July 2021</td>
             <td>M22: Building and Evaluating Linear Regression Model: Part 1(Theory)<br/>
             M23: Building and Evaluating Linear Regression Model: Part 2(Practical)</td>
             <td><a href="#">M22, M23</a></td>
@@ -266,7 +266,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 13</a></td>
          </tr>
           <tr>
-            <td>Day 14</td>
+            <td>26 July 2021</td>
             <td>M24: Building and Evaluating Logistic Regression Model: Part 1(Theory)<br/>
             M25: Building and Evaluating Logistic Regression Model: Part 2(Practical)</td>
             <td><a href="#">M24, M25</a></td>
@@ -274,14 +274,14 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="#">Reading 14</a></td>
          </tr>
          <tr>
-            <td>Day 15</td>
+            <td>27 July 2021</td>
             <td>P1: Regression Project 
             <td><a href="#">P1</a></td>
             <td><a href="">P1</a></td>
             <td><a href="#">None</a></td>
          </tr>
          <tr>
-            <td>Day 16</td>
+            <td>28 July 2021</td>
             <td>P2: Classification Project
             <td><a href="#">P1</a></td>
             <td><a href="">P2</a></td>

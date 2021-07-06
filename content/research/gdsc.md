@@ -27,7 +27,7 @@ According to [worldometers.info](https://www.worldometers.info/world-population/
 - We are working to help policymakers to make data-driven decisions by using raw data. 
 
 ### Mission
-{{< figure src="/img/starter-guide/public_health.jpg" width="450px" class="right-inline" >}}
+{{< figure src="/img/starter-guide/phylogen.png" width="450px" class="right-inline" >}}
 
 We are interested in modern AI methods that support **automated design of signal processing systems**, in particular in the context of audio processing algorithms. For instance, if I have a problem with (the signal processing of) my hearing aid when I am at a cocktail party, I want to fix it right there so I can stay and enjoy the party. Today, there are no proper tools that support the end user in fine-tuning his hearing aid.  We aim to develop such a support tool, and our methods are inspired by theories about learning and adaptation in the fields of (Bayesian) **machine learning** and **computational neuroscience**. In particular, we derive inspiration from recent work in neuroscience that describes how brains perceive, learn and design their algorithms for speech and object recognition, navigation, etc. In our team, we are building a very efficient Bayesian machine learning toolbox ourselves and 'eat our own dogfood' by putting ourselves in complex acoustic situations and use our own tools to tune our audio processing algorithms. This leads to new demands on the toolbox, which drives our next research steps.
 
@@ -40,7 +40,7 @@ I will generally ask you to work on problems that I have not solved myself and y
 
 ## GIS and Remote Sensing in Health Sciences 
 ### Mission 
-{{< figure src="/img/starter-guide/remote_sensing.jpg" width="450px" class="left-inline" >}}
+{{< figure src="/img/starter-guide/map.png" width="450px" class="left-inline" >}}
 I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you're doing research now. Find a simpler question that will put you on the path to an answer. Doing **research is a continuous process of adaptation** in _both_ posing the questions _and_ proposing solutions. In other words, *if you can't find the answer, change the question*! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming's lecture on 'You and Your Research', [video](http://www.youtube.com/watch?v=a1zDuOPkMSw "Hamming video, 1995") (1995) or [html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming html, 1986") (1986), and think about how this relates to your work.
 
 
