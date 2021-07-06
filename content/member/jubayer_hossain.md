@@ -31,7 +31,7 @@ sort_position = 4
 [[education]]
     course = "MSc in Microbiology"
     institution = 'Jagannath University'
-    #year = 2018
+    year = 2021
 
 [[organizations]]
     name = "Health Data Research Organization"
