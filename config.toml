@@ -142,17 +142,31 @@ tag = "tags"
     weight = 6
 
   [[menu.main]]
+   [[menu.main]]
     [[menu.main]]
-    name = "HDRO Training Modules"
-    url = "/teaching/Programs"
-    parent = "teaching"
-    weight = 1
-  [[menu.main]]
-    [[menu.main]]
-    name = "Python for Health Data Analytics"
+    name = "Ongoing: Python for Health Data Analytics"
     url = "/teaching/PY4HDA"
     parent = "teaching"
+    weight = 1
+    [[menu.main]]
+    name = "All Programs: HDRO Training Modules"
+    url = "/teaching/Programs"
+    parent = "teaching"
+    weight = 2
+   [[menu.main]]
+    [[menu.main]]
+    name = "Program 1: Scientific Computing for Biologists"
+    url = "/teaching/SCB"
+    parent = "teaching"
     weight = 3
+      [[menu.main]]
+    [[menu.main]]
+    name = "Program 2: Health Data Analytics"
+    url = "/teaching/HDA"
+    parent = "teaching"
+    weight = 4
+
+ 
 
    [[menu.main]]
     name = "Resources"
