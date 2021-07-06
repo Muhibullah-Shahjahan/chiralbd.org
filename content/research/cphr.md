@@ -31,14 +31,62 @@ According to [worldometers.info](https://www.worldometers.info/world-population/
 We will empower data science to transform public health research by linking it to sources of data beyond the healthcare services, along with other government sectors, organizations, and data on health-related environments. While those who work in these fields may not view their data as having a direct impact on public health, decisions made in education, housing, technology, engineering, law, fiscal policy, environmental science, planning, history, and behavioral sciences all have an effect on our health.
 
 
-### Methodology
-
-I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you're doing research now. Find a simpler question that will put you on the path to an answer. Doing **research is a continuous process of adaptation** in _both_ posing the questions _and_ proposing solutions. In other words, *if you can't find the answer, change the question*! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming's lecture on 'You and Your Research', [video](http://www.youtube.com/watch?v=a1zDuOPkMSw "Hamming video, 1995") (1995) or [html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming html, 1986") (1986), and think about how this relates to your work.
-
-
-## GIS and Remote Sensing in Health Sciences 
-### Mission 
-{{< figure src="/img/starter-guide/remote_sensing.jpg" width="450px" class="right-inline" >}}
-I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you're doing research now. Find a simpler question that will put you on the path to an answer. Doing **research is a continuous process of adaptation** in _both_ posing the questions _and_ proposing solutions. In other words, *if you can't find the answer, change the question*! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming's lecture on 'You and Your Research', [video](http://www.youtube.com/watch?v=a1zDuOPkMSw "Hamming video, 1995") (1995) or [html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming html, 1986") (1986), and think about how this relates to your work.
+## Team 
+- [ Syedatasneem Towhid, Ph.D <br> Team Lead,Center for Public Health Research](https://hdrobd.org/member/syedatasneem_towhid/)
+- [Jubayer Hossain <br> Data Analyst, Genomic Data Science Center](https://hdrobd.org/member/jubayer_hossain/) 
 
 
+
+## Workflow and Tools
+
+This section is a starter's guide for students or researchers who want to research undergraduate and graduate levels with Genomic Data Science Center. Here is our research area, approach, the tools that we use. If you have any questions, please send us an email at **hdroba.org@gmail.com**
+
+
+### Git and Github
+
+{{< figure src="/img/starter-guide/Octocat.jpg" width="100px" class="left-inline" >}}
+
+ We use the [git](http://git-scm.com) version control system to track the various developments of our code base and we organize our projects in repositories at [github](http://github.com). It is important to become a smooth user of both git and github. We use git and github also to track all documents that we write ourselves, including your thesis report. In the windows environment, I recommend that you install [github for windows](http://windows.github.com/) and/or [TortoiseGit](http://code.google.com/p/tortoisegit/).  [Github bootcamp](https://help.github.com/articles/set-up-git) and Dudler's [git guide](http://rogerdudler.github.com/git-guide/) are good places to start. Our workflow is loosely based on [github flow](http://scottchacon.com/2011/08/31/github-flow.html). The articles on [Team collaboration with github](http://net.tutsplus.com/articles/general/team-collaboration-with-github/) and [How to collaborate on Github](http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267) also contain interesting discussions.
+
+
+### Python
+
+{{< figure src="/img/starter-guide/python.png" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+### R Programming 
+{{< figure src="/img/starter-guide/r.svg" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+### Bioconductor
+{{< figure src="/img/starter-guide/bioconductor.png" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+### Julia
+
+{{< figure src="/img/starter-guide/julia-logo.png" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+I also recommend that you spend some time on getting familiar with [Test-Driven Development](https://www.youtube.com/watch?t=11&v=ZB66AKW87M0) (TDD) of code.
+
+
+### SPSS
+
+{{< figure src="/img/starter-guide/spss.svg" width="120px" class="left-inline" >}}
+We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
+
+I also recommend that you spend some time on getting familiar with [Test-Driven Development](https://www.youtube.com/watch?t=11&v=ZB66AKW87M0) (TDD) of code.
+
+
+### LaTeX
+
+{{< figure src="/img/starter-guide/latex-logo.png" width="120px" class="left-inline" >}}
+
+The project's final report should be written in [LaTeX](http://www.latex-project.org/) on [Overleaf](https://www.overleaf.com/). You must get familiar with LaTeX early during your project, because we start writing the final report very soon after the start of the project.
+
+
+### Mendeley
+
+{{< figure src="/img/starter-guide/mendeley.png" width="100px" class="left-inline" >}}
+
+After you join the BIASlab team you will also get access to our literature collection that we store online in a  [Zotero](https://www.zotero.org/) repository. This will help you get an overview of all relevant papers in our field.
