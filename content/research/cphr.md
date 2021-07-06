@@ -32,8 +32,8 @@ We will empower data science to transform public health research by linking it t
 
 
 ## Team 
-- [ Syedatasneem Towhid, Ph.D <br> Team Lead,Center for Public Health Research](https://hdrobd.org/member/syedatasneem_towhid/)
-- [Jubayer Hossain <br> Data Analyst, Genomic Data Science Center](https://hdrobd.org/member/jubayer_hossain/) 
+- [ Syedatasneem Towhid, Ph.D <br> Team Lead, Center for Public Health Research](https://hdrobd.org/member/syedatasneem_towhid/)
+- [Jubayer Hossain <br> Data Analyst, Center for Public Health Research](https://hdrobd.org/member/jubayer_hossain/) 
 
 
 
