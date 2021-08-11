@@ -1,8 +1,8 @@
 +++
 date = "2018-08-23T14:45:00+02:00"
 external_link = ""
-title = "Health Data Analytics"    
-subtitle = "Session: 2021"    
+title = "Health Data Analytics"
+subtitle = "Session: 2021"
 participants_block_position = "down"
 type = "teaching"
 
@@ -30,9 +30,9 @@ type = "teaching"
 +++
 
 <img src="/img/teaching/iscb.png" width="1200px">
-HDRO runs different programs regarding health data analytics, bioinformatics, genomic data science. The aim of these programs to develop a community on scientific computing in the field of health science. The courses are free, and some are paid. The course fees of these courses will spend on our research. 
+The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) runs different programs regarding health data analytics, bioinformatics, genomic data science. The aim of these programs to develop a community on scientific computing in the field of health science. The courses are free, and some are paid. The course fees of these courses will spend on our research. 
 
-## Courses on Health Data Analytics 
+## Courses on Health Data Analytics
 Health data analytics, also known as clinical data analytics, involves the extrapolation of actionable insights from sets of patient data, typically collected from electronic health records (EHRs).The growing need is spurred by the recent major challenge of population health management (PHM), widely seen as the most effective approach to improving healthcare delivery among diverse groups of people while lowering costs to providers. Posing difficulties to PHM and the data mining involved is an ever-expanding patient base, compounded by the addition of new patients under the Affordable Care Act and the shift toward new payment models that it requires.
 
 <table border = "1">
@@ -84,7 +84,7 @@ Health data analytics, also known as clinical data analytics, involves the extra
             <td>Advance</td>
            <td> <a href="#">Find out more</a></td>
       </tr>
-     
+
  </table>
 
 
@@ -111,6 +111,3 @@ Geographic information systems (GIS) are computer-based tools for storing, visua
            <td> <a href="#">Find out more</a></td>
         </tr>
  </table>
-
-
-

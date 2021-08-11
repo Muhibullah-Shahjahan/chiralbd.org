@@ -1,8 +1,8 @@
 +++
 date = "2018-08-23T14:45:00+02:00"
 external_link = ""
-title = "Introduction to Scientific Computing for Biologists"    
-subtitle = "Session: 2020"    
+title = "Introduction to Scientific Computing for Biologists"
+subtitle = "Session: 2020"
 participants_block_position = "down"
 type = "teaching"
 
@@ -35,61 +35,61 @@ type = "teaching"
 
 +++
 
-<!--- 
+<!---
 <h2 style="color:red;">
 Note: This site is currently under construction.
 </h2>
 --->
 
-The "Introduction to Scientific Computing for Biologists by Health Data Research Organization" was the  2020 edition course.  
+The "Introduction to Scientific Computing for Biologists by The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) was the  2020 edition course.
 
 <img src="/img/teaching/iscb.png" width="1200px">
 
 ### Course summary
-Health Data Research Organization's introductory course on Scientific Computing for Biologists with applications to Health Data Science, Genomic Data Science , Bioinformatics, and more. Students will gain foundational knowledge of Pyhton , R programming, Julia, Statistcis and get practical experience in building data analysis pipeline.In this course, you will learn about basic toolbox for scientific computing like linux, scientific typesetting, reference management, jupyter notebook, RStudio, github and more.In this course, you will learn about scientific computing with Python programming language. You will also how to import and clean data, how to visualize them and how to interpret data with help of descriptive and inferential statistics.In this corse, you will learn about R programming language from basic to advance in different area such as data analysis, bioiformatics and genomic data cleaning and visualization.In this course, you will learn about Julia programming language with application in different fields like data analysis, bioinformatics, healthcare data analytics and much more.
+The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)'s introductory course on Scientific Computing for Biologists with applications to Health Data Science, Genomic Data Science , Bioinformatics, and more. Students will gain foundational knowledge of Pyhton , R programming, Julia, Statistcis and get practical experience in building data analysis pipeline.In this course, you will learn about basic toolbox for scientific computing like linux, scientific typesetting, reference management, jupyter notebook, RStudio, github and more.In this course, you will learn about scientific computing with Python programming language. You will also how to import and clean data, how to visualize them and how to interpret data with help of descriptive and inferential statistics.In this corse, you will learn about R programming language from basic to advance in different area such as data analysis, bioiformatics and genomic data cleaning and visualization.In this course, you will learn about Julia programming language with application in different fields like data analysis, bioinformatics, healthcare data analytics and much more.
 
 ### Course Goal and Course Learning Objectives
 This course provides an introduction to  Scientific Computing for Biologist.
 
 
 
-### Course Description 
+### Course Description
 - **Course Type:** Health Data Analytics
 - **Course Title:** Introduction to Scientific Computing for Biologists
-- **Course Duration:** 40 days(Approx.) 
+- **Course Duration:** 40 days(Approx.)
 - **Total Time:** 65 hours(50 hours lecture + 15 hours problem solution)
 - **Total Classes:** 40 (34 classes + 6 projects)
-- **Assignments:** 35  (29 problem sets + 6 projects) 
-- **Benifits:** Free reading materials, waiver for any future HDRO training. 
+- **Assignments:** 35  (29 problem sets + 6 projects)
+- **Benifits:** Free reading materials, waiver for any future HDRO training.
 - **Reward:** Based on the performance 5 students will be given **Research Assistantship(RA)**
-    oppurtunities to conduct health research with HDRO research team. 
+    oppurtunities to conduct health research with HDRO research team.
 - **Medium:** Zoom/Google Meet
 
 ### Learning Objectives
 - Understanding the necessary toolbox important for research
 - Understanding of the basic programming concept using Python, R, Julia in the health research perspective
-- understanding about the Bioinformatics 
-- Understanding of the essential health data analysis workflow 
+- understanding about the Bioinformatics
+- Understanding of the essential health data analysis workflow
 - Understanding the process of  Hypothysis testing
-- How to import and clean data using Pandas(A data management package built with Python, R, Julia) 
-- How to formulate a research question 
-- How to analyze health data 
+- How to import and clean data using Pandas(A data management package built with Python, R, Julia)
+- How to formulate a research question
+- How to analyze health data
 - How to visualize data using Matplotlib and seaborn(Data visualization packages built with Python) , ggplot2(Data visualization packages built with R)
-- How to analyze and visualize geospatial data using Geopandas(A Python package to work with geospatial data) 
-- Understanding and interpreting data using descriptive statistics and inferential statistics with Python 
+- How to analyze and visualize geospatial data using Geopandas(A Python package to work with geospatial data)
+- Understanding and interpreting data using descriptive statistics and inferential statistics with Python
 - Understanding and interpreting dplyr Package with R
 - Understanding and interpreting seqinr Package with R
 
-### Aims 
-- Provides fundamentals of programming concepts through Python, R and Julia programming language. 
+### Aims
+- Provides fundamentals of programming concepts through Python, R and Julia programming language.
 - Provides a solid understanding of data analysis workflow in the field of health sciences and bio-informatics(i.e. public health, health data science, genomic data science, drug design)
 - We aim to develop thought processes and guide the learners to develop their analyst mindset, which is essential to becoming a successful health data analyst or researcher.
 
 ### Who this course is for
-- If you have no programming experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with. 
-- If you have no data analysis experience but want learn end-to-end data analysis process from data collection to report writing- then this course is a great one to start. 
-- If you have some experience but are not confident enough to start your project, you can start from here. 
-- If you are an undergrad student and planning to start your research journey, this course will surely also help you. 
+- If you have no programming experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
+- If you have no data analysis experience but want learn end-to-end data analysis process from data collection to report writing- then this course is a great one to start.
+- If you have some experience but are not confident enough to start your project, you can start from here.
+- If you are an undergrad student and planning to start your research journey, this course will surely also help you.
 
 ### Course Prerequisites
 There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed Python and Jupyter Notebook, and worked through a basic tutorial on Python Environment Setup.
@@ -100,28 +100,28 @@ News and Announcements
 </h3>
 
 -Course official Site [Introduction to Scientific Computing for Biologists](https://muhibullah-shahjahan.github.io/sci-com-biologists-2.0/) .
-- As much as possible we use the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9) for new announcements. 
+- As much as possible we use the [Piazza course site](https://piazza.com/class/kgp8llbdmx84s9) for new announcements.
 - [Slack](https://slack.com/) is a chatroom for discussion. The participants can interact with mentors, share their problems and solutions easily.
 
 ## Instructors
 
 - [Md. Jubayer Hossain](http://jhossain.me) (email: contact.jubayerhossain@gmail.com) is the lead organizer and instructor for this course and teaches all [](#lectures).
-- [Md. Atik Shahriar Sammo](https://hdrobd.org/member/atik_shariar_sammo/) (ask.sammo@gmail.com) teaches all [](#lectures).                           
+- [Md. Atik Shahriar Sammo](https://hdrobd.org/member/atik_shariar_sammo/) (ask.sammo@gmail.com) teaches all [](#lectures).
 - [Mohammad Nahian](https://hdrobd.org/member/mohammad_nahian/) works as a course coordinator.
 
 
 ## Materials
 
 In principle, you can download all needed materials from the links below.
-## Books 
+## Books
 - [Automate The Boring Stuff with Python]()
 - [Python for Data Analysis]()
 - [Pyhton for Biologists]()
 - [Python for Bioinformatics]()
 - [Bioinformatics Algorithms Design and Implementation in Python]()
-- [Introduction to Computational Genomics]()															
-- [Statistics for Genomic Data Science]()																							
-- [Introduction to Biostatistics]()																					
+- [Introduction to Computational Genomics]()
+- [Statistics for Genomic Data Science]()
+- [Introduction to Biostatistics]()
 - [Practical Statistics for Data Science]()
 - [R for Life Sciences]()
 - [Exploratory Data Analysis using R]()
@@ -147,9 +147,9 @@ The [source files for the lecture notes are accessible on github](https://github
             <td>Day 1 </td>
             <td> L1 -<br/>
                     Multics<br/>
-                    UNIX<br/>	
-                    GNU project<br/>	
-                    Linux<br/>	
+                    UNIX<br/>
+                    GNU project<br/>
+                    Linux<br/>
                     Linux Distros</td>
             <td><a href="#">L1</a></td>
             <td><a href="https://github.com/hdrocourses/ISCB20.01/blob/main/section-1.1.pdf">L1</a></td>
@@ -158,20 +158,20 @@ The [source files for the lecture notes are accessible on github](https://github
          <tr>
             <td>Day 2</td>
             <td>L2 - <br/>
-                    Ubuntu Interface Introduction<br/>	
+                    Ubuntu Interface Introduction<br/>
                     Terminal<br/>
                     System Update and Upgrade<br/>
                     Install ZSH	<br/>
-                    Install Terminator<br/>	
-                    Install (.deb) Packages	<br/>	
-                    Download and Install Google Chrome<br/>	
-                    Download and Install Slack<br/>	
-                    Download and Install Anaconda Python Distribution<br/>	
-                    Install R<br/>	
-                    RStudio	<br/>	
-                    Text Editor–VSCode<br/>	
-                    Install L A TEX	<br/>	
-                    LaTeX Editor–TeXStudio<br/>	
+                    Install Terminator<br/>
+                    Install (.deb) Packages	<br/>
+                    Download and Install Google Chrome<br/>
+                    Download and Install Slack<br/>
+                    Download and Install Anaconda Python Distribution<br/>
+                    Install R<br/>
+                    RStudio	<br/>
+                    Text Editor–VSCode<br/>
+                    Install L A TEX	<br/>
+                    LaTeX Editor–TeXStudio<br/>
                     Download and Install Mendeley</td>
             <td><a href="#">L2</a></td>
             <td><a href="https://github.com/hdrocourses/ISCB20.01/blob/main/section-1.2.pdf">L2</a></td>
@@ -194,7 +194,7 @@ The [source files for the lecture notes are accessible on github](https://github
             Content Representation-1<br/>
            Content Representation-2	<br/>
            Content Creation and Removal-1<br/>
-            Content Creation and Removal-2<br/>	
+            Content Creation and Removal-2<br/>
             Accessing Content-1<br/>
             Accessing Content-2	<br/>
             Redirecting Content	<br/>
@@ -241,10 +241,10 @@ The [source files for the lecture notes are accessible on github](https://github
                   <tr>
             <td>Day 7</td>
             <td>L7 -<br/>
-                Presentation using LaTeX<br/>	
-                Research Article<br/>	
-                Thesis<br/>	
-                Report Writing<br/>	
+                Presentation using LaTeX<br/>
+                Research Article<br/>
+                Thesis<br/>
+                Report Writing<br/>
                 Assignment-3(Based on Section-3)</td>
             <td><a href="#">L7</a></td>
             <td><a href="https://github.com/hdrocourses/ISCB20.02">L7</a></td>
@@ -290,13 +290,13 @@ The [source files for the lecture notes are accessible on github](https://github
             <td>Day 10</td>
             <td>L10 -<br/>
                     if, else, elif	<br/>
-                    for loop, while loop<br/>	
-                    break, continue and pass statements<br/>	
-                    Strings<br/>	
-                    List<br/>	
-                    Tuple<br/>	
-                    Sets<br/>	
-                    Dictionary<br/>	
+                    for loop, while loop<br/>
+                    break, continue and pass statements<br/>
+                    Strings<br/>
+                    List<br/>
+                    Tuple<br/>
+                    Sets<br/>
+                    Dictionary<br/>
                     Assignment-2(Based on Section-2)</td>
             <td><a href="#">L10</a></td>
             <td><a href="https://github.com/hdrocourses/ISCB20.04/tree/main/notebooks">L10</a></td>
@@ -366,12 +366,12 @@ The [source files for the lecture notes are accessible on github](https://github
             <td>Day 15</td>
             <td>L15 -<br/>
                     What is NumPy?<br/>
-                    Getting Started<br/>	
-                    Array Creation Function<br/>	
-                    Data Types<br/>	
-                    Array Slicing<br/>	
-                    Array Operations<br/>	
-                    Statistics<br/>	
+                    Getting Started<br/>
+                    Array Creation Function<br/>
+                    Data Types<br/>
+                    Array Slicing<br/>
+                    Array Operations<br/>
+                    Statistics<br/>
                     Problem Set 1(Based on Section-1)</td>
             <td><a href="#">L15</a></td>
             <td><a href="https://github.com/hdrocourses/ISCB20.06/tree/main/numpy">L15</a></td>
@@ -477,14 +477,14 @@ The [source files for the lecture notes are accessible on github](https://github
                      <td>Day 22</td>
             <td>L22 -<br/>
 	                    Translation	<br/>
-                    Transcription<br/>	
-                    Complement & Reverse Complement<br/>	
-                    Nucleotide Frequency<br/>	
-                    Nucleotide Frequency Plot<br/>	
-                    GC & AT Distribution<br/>	
-                    GC & AT Distribution Plot<br/>	
-                    K-mer Analysis<br/>	
-                    K-mer Plot<br/>	
+                    Transcription<br/>
+                    Complement & Reverse Complement<br/>
+                    Nucleotide Frequency<br/>
+                    Nucleotide Frequency Plot<br/>
+                    GC & AT Distribution<br/>
+                    GC & AT Distribution Plot<br/>
+                    K-mer Analysis<br/>
+                    K-mer Plot<br/>
                     Assignment-1(Based on Section-1)</td>
             <td><a href="#">L22</a></td>
             <td><a href="https://github.com/hdrocourses/ISCB20.08">L22</a></td>
@@ -603,7 +603,7 @@ The [source files for the lecture notes are accessible on github](https://github
             <td><a href="https://github.com/hdrocourses/ISCB20.10">L31</a></td>
             <td><a href="https://github.com/hdrocourses/ISCB20.10">L31</a></td>
          </tr>
-         
+
 
 
  </table>
