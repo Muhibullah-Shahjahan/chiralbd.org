@@ -31,7 +31,6 @@ sort_position = 1
 [[organizations]]
     name = "Jagannath University"
     role = "Associate Professor"
-
 +++
 
 Dr. Mohammad Ariful Islam is an Associate Professor of Microbiology at Jagannath University, Dhaka. He completed her Bachelor of Science (B.Sc.) and Master of Science (MS) from Department of Microbiology, University of Dhaka.

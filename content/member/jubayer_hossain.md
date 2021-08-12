@@ -34,7 +34,7 @@ sort_position = 4
     year = 2021
 
 [[organizations]]
-    name = "Health Data Research Organization"
+    name = "Health Data Research Organizatio"
     role = "Founder & Instructor"
 +++
 

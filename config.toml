@@ -112,8 +112,30 @@ tag = "tags"
     name = "Home"
     url = "/#home"
     weight = 1
-
   [[menu.main]]
+    name = "About CHIRAL"
+    weight = 2
+    identifier = "about"
+  [[menu.main]]
+    name = "About Us"
+    url = "/about-chiral"
+    parent = "about"
+    weight = 1
+  [[menu.main]]
+    name = "Constitution"
+    url = "/constitution"
+    parent = "about"
+    weight = 2
+  [[menu.main]]
+    name = "Teams"
+    url = "/chiral-teams"
+    parent = "about"
+    weight = 3
+
+
+
+
+[[menu.main]]
     name = "Research"
     weight = 2
     identifier = "research"
@@ -144,8 +166,6 @@ tag = "tags"
     weight = 6
 
   [[menu.main]]
-   [[menu.main]]
-    [[menu.main]]
     name = "Ongoing: Research ToolBox: A Step by Step Guide"
     url = "/teaching/research-toolbox/program-intro"
     parent = "teaching"

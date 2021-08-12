@@ -29,15 +29,12 @@ Note: This site is currently under construction.
 </h2>
 --->
 
-The "Python for Health Data Analytics" will start in July 2021.
-
+The "Introduction to Health Research" will start in September 2021.
 
 <img src="/img/teaching/5SSD0-banner.png" width="1200px">
 
 ### Course summary
-The course covers the fundamentals of Python programming and data analysis workflow. We will focus on data cleaning, management, and visualizations through a case study approach. We also focus on working with statistical problems, both descriptive and inferential techniques in health research. The basics of statistical model building and evaluating healthcare perspectives will be used in this course.
-
-
+The course covers the fundamentals of health research and a complete workflow. We will focus on research methods, literature search, documentation, questionnaire development and proposal writing.
 <table border = "1">
         <tr>
             <th style="text-align:center"></th>
@@ -45,35 +42,35 @@ The course covers the fundamentals of Python programming and data analysis workf
         </tr>
         <tr>
            <td>Program</td>
-           <td> <a href="https://hdrobd.org/teaching/py4hda/">Health Data Analytics</a></td>
+           <td> <a href="https://hdrobd.org/teaching/py4hda/">Health Research ToolBox: A Step by Step Guide for Beginners</a></td>
         </tr>
         <tr>
            <td>Course Title</td>
-           <td>Python for Health Data Analytics</td>
+           <td> Introduction to Health Research</td>
         </tr>
         <tr>
            <td>Course Duration</td>
-           <td>20 days (Apporx.)</td>
+           <td>5 days (Apporx.)</td>
         </tr>
          <tr>
            <td>Course Hours</td>
-           <td>40 hours(30 hours lecture + 10 hours problem solution)</td>
+           <td>10 hours(5 hours lecture + 5 hours hands on demo)</td>
         </tr>
           <tr>
            <td>Total Classes</td>
-           <td>20 (18 classes + 2 projects)</td>
+           <td>5 (18 classes + 2 projects)</td>
         </tr>
         <tr>
            <td>Assignments</td>
-           <td> 7 (5 problem sets + 2 projects) </td>
+           <td> 2  </td>
         </tr>
          <tr>
            <td>Benifits</td>
-           <td> Free reading materials, waiver for any future HDRO training.</td>
+           <td> Solid understanding of basic health research methodology</td>
         </tr>
          <tr>
            <td>Reward</td>
-           <td>  Based on the performance 5 students will be given Research Assistantship(RA)oppurtunities to conduct health research with HDRO research team. </td>
+           <td>  Based on the performance 5 students will be given Research Assistantship(RA)oppurtunities to conduct health research with CHIRAL research team. </td>
         </tr>
         <tr>
            <td>Medium</td>
@@ -85,11 +82,11 @@ The course covers the fundamentals of Python programming and data analysis workf
         </tr>
         <tr>
            <td>Expected Starting Date</td>
-           <td>7 July, 2021</td>
+           <td>15 September, 2021</td>
         </tr>
         <tr>
            <td>Expected Ending Date</td>
-           <td>24 July, 2021</td>
+           <td>20 September, 2021</td>
         </tr>
 
  </table>
@@ -162,131 +159,47 @@ The [source files for the lecture notes are accessible on github](https://github
             <th style="text-align:center">Reading Materials</th>
          </tr>
          <tr>
-            <td>8 July 2021</td>
-            <td>M0: Course Syllabus Introduction and Python Environment Setup <br/>
-            M1: Python Overview for Health Research</td>
-            <td><a href="#">M0, M1</a></td>
-            <td><a href="">M0</a>, <a href="#">M1</a></td>
-            <td><a href="#">Readinig 1</a></td>
+            <td>Day 1 </td>
+            <td>
+              <b>Lesson - 1: Introduction</b> <br>
+              1.1: Introduction to Health Research <br/>
+              1.2: Formulating Research Questions, Hypothesis and Objectives <br/>
+              1.3: Literature Review<br/>
+              1.4: Literature Documentation</td>
+              <td><a href="#">L1</a></td>
+              <td><a href="">L1</a></td>
+              <td><a href="#">Readinig 1</a>
+            </td>
          </tr>
          <tr>
-            <td>9 July 2021</td>
-            <td>M2: Pyhton Control Flow: Conditional Logic<br/>
-              M3: Pyhton Control Flow: Loops</td>
-            <td><a href="#">M2, M3</a></td>
-            <td><a href="">M2</a>, <a href="#">M3</a></td>
-            <td><a href="#">Readinig 2</a></td>
-         </tr>
-        <tr>
-            <td>10 July 2021</td>
-            <td>M4: Python Functions: Built-in and User Defined Functions<br/>
-            M5: Functional Programming in Python</td>
-            <td><a href="#">M4, M5</a></td>
-            <td><a href="">M4</a>, <a href="#">M5</a></td>
-            <td><a href="#">Readinig 3</a></td>
-         </tr>
-        <tr>
-            <td>11 July 2021</td>
-            <td>M6: Data Structures in Python: Part 1<br/>
-            M7: Data Structures in Python: Part 2</td>
-            <td><a href="#">M6, M7</a></td>
-            <td><a href="">M6</a>, <a href="#">M7</a></td>
-            <td><a href="#">Readinig 4</a></td>
+            <td>Day 2 </td>
+            <td>
+              <b>Lesson - 2: Study Designs</b> <br>
+              2.1: Measures of Diseases Frequency<br/>
+              2.2: Descriptive Study Designs<br/>
+              2.3: Analytical Study Designs<br/>
+              2.4: Experimental Study Design</td>
+              <td><a href="#">L2</a></td>
+              <td><a href="">L2</a></td>
+              <td><a href="#">Readinig 1</a>
+            </td>
          </tr>
          <tr>
-            <td>12 July 2021</td>
-            <td>M8: Files and Errors Handling<br/>
-            M9: Python Classes and Objects</td>
-            <td><a href="#">M8, M9</a></td>
-            <td><a href="">M8</a>, <a href="#">M9</a></td>
-            <td><a href="#">Readinig 5</a></td>
+            <td>Day 3 </td>
+            <td>
+              <b>Lesson - 3: Sampling Methods</b> <br>
+              3. 1: Measurements of Variables <br>
+              3.2: Calculating Sample Size and Power<br/>
+              3.3: Selection of Study Population<br/>
+              3.4: Study Plan and Project Management<br/>
+              3.5:
+              </td>
+              <td><a href="#">L1</a></td>
+              <td><a href="">L1</a></td>
+              <td><a href="#">Readinig 1</a>
+            </td>
          </tr>
-        <tr>
-            <td>15 July 2021</td>
-            <td>M10: Working with Multidimentional Arrays with NumPy: Part 1<br/>
-             M11:Working with Multidimentional Arrays with NumPy: Part 2</td>
-            <td><a href="#">M10, M11</a></td>
-            <td><a href="">M10</a>, <a href="#">M11</a></td>
-            <td><a href="#"> Reading 6</a></td>
-         </tr>
-        <tr>
-            <td>16 July 2021</td>
-            <td>M12: Introduction to Biostatisics for Health Data Analytics(Theory)<br/>
-            M13: Importing and Exploring Data using Pandas(Practical)</td>
-            <td><a href="#">M12, M13</a></td>
-            <td><a href="">M12</a>, <a href="#">M13</a></td>
-            <td><a href="#">Reading 7</a></td>
-         </tr>
-         <tr>
-            <td>17 July 2021</td>
-            <td>M13: Interpreting Data Using Descriptive Statistics: Part 1(Theory)<br/>
-            M14: Interpreting Data Using Descriptive Statistics: Part 1(Practical)</td>
-            <td><a href="#">M13, M14</a></td>
-            <td><a href="">M12</a>, <a href="#">M13</a></td>
-            <td><a href="#">Reading 8</a></td>
-         </tr>
-         <tr>
-            <td>18 July 2021</td>
-            <td>M15: Interpreting Data Using Descriptive Statistics: Part 2(Theory)<br/>
-            M16: Interpreting Data Using Descriptive Statistics: Part 2(Practical)</td>
-            <td><a href="#">M15, M16</a></td>
-            <td><a href="">M15</a>, <a href="#">M16</a></td>
-            <td><a href="#">Reading 9</a></td>
-         </tr>
-         <tr>
-            <td>19 July 2021</td>
-            <td>M17: Interpreting Data Using Descriptive Statistics: Part 3(Theory)<br/>
-            M18: Interpreting Data Using Descriptive Statistics: Part 3(Practical)</td>
-            <td><a href="#">M17, M18</a></td>
-            <td><a href="">M17</a>, <a href="#">M18</a></td>
-            <td><a href="#">Reading 10</a></td>
-         </tr>
-         <tr>
-            <td>23 July 2021</td>
-            <td>M19: Interpreting Data Using Inferential Statistics: Part 1(Theory)<br/>
-            M20: Interpreting Data Using Inferential Statistics: Part 1(Practical)</td>
-            <td><a href="#">M19, M20</a></td>
-            <td><a href="">M19</a>, <a href="#">M20</a></td>
-            <td><a href="#">Reading 11</a></td>
-         </tr>
-          <tr>
-            <td>24 July 2021</td>
-            <td>M21: Interpreting Data Using Inferential Statistics: Part 2(Theory)<br/>
-            M22: Interpreting Data Using Inferential Statistics: Part 2(Practical)</td>
-            <td><a href="#">M21, M22</a></td>
-            <td><a href="">M21</a>, <a href="#">M22</a></td>
-            <td><a href="#">Reading 12</a></td>
-         </tr>
-         <tr>
-            <td>25 July 2021</td>
-            <td>M22: Building and Evaluating Linear Regression Model: Part 1(Theory)<br/>
-            M23: Building and Evaluating Linear Regression Model: Part 2(Practical)</td>
-            <td><a href="#">M22, M23</a></td>
-            <td><a href="">M22</a>, <a href="#">M23</a></td>
-            <td><a href="#">Reading 13</a></td>
-         </tr>
-          <tr>
-            <td>26 July 2021</td>
-            <td>M24: Building and Evaluating Logistic Regression Model: Part 1(Theory)<br/>
-            M25: Building and Evaluating Logistic Regression Model: Part 2(Practical)</td>
-            <td><a href="#">M24, M25</a></td>
-            <td><a href="">M24</a>, <a href="#">M25</a></td>
-            <td><a href="#">Reading 14</a></td>
-         </tr>
-         <tr>
-            <td>27 July 2021</td>
-            <td>P1: Regression Project
-            <td><a href="#">P1</a></td>
-            <td><a href="">P1</a></td>
-            <td><a href="#">None</a></td>
-         </tr>
-         <tr>
-            <td>28 July 2021</td>
-            <td>P2: Classification Project
-            <td><a href="#">P1</a></td>
-            <td><a href="">P2</a></td>
-            <td><a href="#">None</a></td>
-         </tr>
+
  </table>
 
 ### Payment Procedure
