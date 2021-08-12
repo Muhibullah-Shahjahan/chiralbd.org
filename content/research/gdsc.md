@@ -7,26 +7,26 @@ date = "2020-07-19T8:50:58+02:00"
     link = "/jubayer"
 +++
 
-Genomic Data Science Center is a research wing of the Health Data Research Organization. The wing focuses on using publicly available genomic data to understand the cause of diseases, the transmission of conditions, and the evolutionary relationship among multiple organisms. The GDSC team also uses genomic epidemiology to understand the community transmission of viruses such as COVID-19, Dengue, and Chikungunya. 
+Genomic Data Science Center is a research wing of the CHIRAL Bangladesh. The wing focuses on using publicly available genomic data to understand the cause of diseases, the transmission of conditions, and the evolutionary relationship among multiple organisms. The GDSC team also uses genomic epidemiology to understand the community transmission of viruses such as COVID-19, Dengue, and Chikungunya.
 {{< figure src="/img/starter-guide/public_health.jpg" width="450px" class="right-inline" >}}
 
 
 
 
-### Aims 
-- To use publicly available genomic data for understanding the cause of diseases. 
-- To improve the healthcare system in Bangladesh through the understanding of the genome. 
-- To enable data science for making data-driven conclusions and help policymakers to make decisions. 
+### Aims
+- To use publicly available genomic data for understanding the cause of diseases.
+- To improve the healthcare system in Bangladesh through the understanding of the genome.
+- To enable data science for making data-driven conclusions and help policymakers to make decisions.
 
-## Team 
+## Team
 - [Shaheen Alam <br> Team Lead, Genomic Data Science Center](https://hdrobd.org/member/shaheen_alam/)
 - [Mehedi Hasan <br> Researcher, Genomic Data Science Center](https://hdrobd.org/member/mehedi_hasan/)
-- [Jubayer Hossain <br> Data Analyst, Genomic Data Science Center](https://hdrobd.org/member/jubayer_hossain/) 
+- [Jubayer Hossain <br> Data Analyst, Genomic Data Science Center](https://hdrobd.org/member/jubayer_hossain/)
 
 
 ## Workflow and Tools
 
-This section is a starter's guide for students or researchers who want to research undergraduate and graduate levels with Genomic Data Science Center. Here is our research area, approach, the tools that we use. If you have any questions, please send us an email at **hdroba.org@gmail.com**
+This section is a starter's guide for students or researchers who want to research undergraduate and graduate levels with Genomic Data Science Center. Here is our research area, approach, the tools that we use. If you have any questions, please send us an email at **chiralbd.org@gmail.com**
 
 
 ### Slack
@@ -73,7 +73,7 @@ The [Biopython](https://biopython.org/) project is an open-source collection of 
 
 {{< figure src="/img/starter-guide/julia-logo.png" width="120px" class="left-inline" >}}
 
-[Julia](https://julialang.org/) is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science. 
+[Julia](https://julialang.org/) is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
 
 <br>
 

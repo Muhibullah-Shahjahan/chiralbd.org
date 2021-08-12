@@ -50,7 +50,7 @@ tag = "tags"
   # [[params.sponsors]]
   #   name = "NWO"
   #   link = "http://www.stw.nl"
-  #   image = "/img/sponsors/NWO.png"
+  #   image = "/img/sponsors/thals.png"
   # [[params.sponsors]]
   #   name = "GN Resound"
   #   link = "http://www.resound.com/"
@@ -136,6 +136,10 @@ tag = "tags"
     name = "Research"
     weight = 2
     identifier = "research"
+  [[menu.main]]
+    name = "Research Focus"
+    weight = 1
+    parent = "research"
 [[menu.main]]
     name = "Projects"
     url = "/#projects"
@@ -198,8 +202,8 @@ tag = "tags"
     weight = 7
     identifier="joinus"
   [[menu.main]]
-    name = "Center for Public Health Research(CPHR)"
-    url = "/research/cphr"
+    name = "Health Data Science Center(HDSC)"
+    url = "/research/hdsc"
     parent="joinus"
     weight = 8
 
@@ -214,7 +218,10 @@ tag = "tags"
     url = "/research/starter-guide"
     parent="joinus"
     weight = 8
-
+  [[menu.main]]
+    name = "Collaboration"
+    url = "#open-projects"
+    weight = 9
 
   # [[menu.main]]
   #   name = "Open projects"

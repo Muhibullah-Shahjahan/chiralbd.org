@@ -1,13 +1,13 @@
 +++
-title="Center for Public Health Research(CPHR)"
+title="Health Data Science Center(HDSC)"
 date = "2020-07-19T8:50:58+02:00"
 [[authors]]
     name = "Jubayer Hossain"
-    is_member = true 
+    is_member = true
     link = "/jubayer"
 +++
 
-Health Data Research Organization deals with genomics and public research; the Center for Public Health Research(CPHR) is dedicated to public health. The CPHR team focuses on the public health problems in Bangladesh. The design study for generating data for HDRO and preprocess the secondary data to give an insightful shape. 
+CHIRAL Bangladesh deals with genomics and public research; the Health Data Science Center(HDSC) is dedicated to public health. The CPHR team focuses on the public health problems in Bangladesh. The design study for generating data for HDRO and preprocess the secondary data to give an insightful shape.
 
 
 
@@ -20,10 +20,10 @@ According to [worldometers.info](https://www.worldometers.info/world-population/
 - Environmental sanitation problems
 - Health problems
 
-### Aims 
-- To conduct health surveys for understanding the current public health problems. 
+### Aims
+- To conduct health surveys for understanding the current public health problems.
 - To use health data in multiple forms to understand the cause of diseases and improve people's lives.
-- We are working to help policymakers to make data-driven decisions by using raw data. 
+- We are working to help policymakers to make data-driven decisions by using raw data.
 
 ### Mission
 {{< figure src="/img/starter-guide/public_health.jpg" width="450px" class="right-inline" >}}
@@ -31,15 +31,15 @@ According to [worldometers.info](https://www.worldometers.info/world-population/
 We will empower data science to transform public health research by linking it to sources of data beyond the healthcare services, along with other government sectors, organizations, and data on health-related environments. While those who work in these fields may not view their data as having a direct impact on public health, decisions made in education, housing, technology, engineering, law, fiscal policy, environmental science, planning, history, and behavioral sciences all have an effect on our health.
 
 
-## Team 
+## Team
 - [ Syedatasneem Towhid, Ph.D <br> Team Lead, Center for Public Health Research](https://hdrobd.org/member/syedatasneem_towhid/)
-- [Jubayer Hossain <br> Data Analyst, Center for Public Health Research](https://hdrobd.org/member/jubayer_hossain/) 
+- [Jubayer Hossain <br> Data Analyst, Center for Public Health Research](https://hdrobd.org/member/jubayer_hossain/)
 
 
 
 ## Workflow and Tools
 
-This section is a starter's guide for students or researchers who want to research undergraduate and graduate levels with Genomic Data Science Center. Here is our research area, approach, the tools that we use. If you have any questions, please send us an email at **hdroba.org@gmail.com**
+This section is a starter's guide for students or researchers who want to research undergraduate and graduate levels with Genomic Data Science Center. Here is our research area, approach, the tools that we use. If you have any questions, please send us an email at **chiralbd.org@gmail.com**
 
 
 ### Git and Github
@@ -54,7 +54,7 @@ This section is a starter's guide for students or researchers who want to resear
 {{< figure src="/img/starter-guide/python.png" width="120px" class="left-inline" >}}
 We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
 
-### R Programming 
+### R Programming
 {{< figure src="/img/starter-guide/r.svg" width="120px" class="left-inline" >}}
 We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
 
