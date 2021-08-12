@@ -9,7 +9,7 @@ Our mission is to lead, promote and deliver health research solutions by learnin
 Research is mandatory for the development of a nation, and it can improve the overall condition of a country. Therefore, the Center for Health Innovation, Research, Action and Learning (CHIRAL Bangladesh) believes that the young generation of Bangladesh has a great potential to take our country’s research sector a long way. We dream of a Bangladesh, where the young generation will lead the country on the path of prosperity through research.
 
 
-## 1. Terms of membership
+## 1. Terms of Membership
 1.1. Students and all those involved in educational activities can become members. <br>
 1.2.  Political and religious activities cannot be carried out under the banner of the organization.<br>
 1.3. The monthly subscription of the members is 200 Taka, which has to be paid every 6 months (1200 Taka).<br>
@@ -20,7 +20,7 @@ CHIRAL Bangladesh; otherwise, it will not be considered. Therefore, money deposi
 1.6. No one can join any political or religious organization under the banner of CHIRAL Bangladesh.<br>
 1.7. Members will be recruited every year, and anyone interested can become a member by  filling the prescribed form at any time as per the rules. <br>
 
-## 2. Bank account
+## 2. Bank Account
 2.1. An account will be opened in a state-run bank under the name “CHIRAL Bangladesh"<br>
 2.2. The bank account will be managed by the treasurer.<br>
 2.3 To withdraw money, the director of the CHIRAL Bangladesh and the board of directors should  be discussed.<br>
@@ -36,7 +36,7 @@ CHIRAL Bangladesh; otherwise, it will not be considered. Therefore, money deposi
 4.4. Prizes for various types of Competitions
 4.5. Publication fees
 
-## 5. Board of directors
+## 5. Board of Directors
 5.1. Positions rather than founder are likely to be changed.<br>
 5.2. Every year, in case of changing posts, the members will be selected from the qualified,
 honest and meritorious candidates based on the opinion of other members.<br>
@@ -57,7 +57,7 @@ research projects.<br>
 6.7. Confidentiality must be protected in the case of cooperating members of other research
 projects.<br>
 
-## 7. General meeting
+## 7. General Meeting
 7.1. A general meeting must be held to change or modify any rules of the Health Data Research Organization.<br>
 7.2. A general meeting will be held before every event.<br>
 7.3. A regular general meeting will be held every one month.<br>
@@ -67,7 +67,7 @@ and account of earning and expenses of the previous year will be conferred in th
 meeting.<br>
 
 
-## 8. Website management
+## 8. Website Management
 8.1 If anyone wants to work on the CHIRAL Bangladesh's website, he/she must have previous work experience.<br>
 8.2 Any modification or changes in the website must be authorized by the central committee,
 especially authorized by the Founder and Director of the CHIRAL Bangladesh.<br>
@@ -75,8 +75,8 @@ especially authorized by the Founder and Director of the CHIRAL Bangladesh.<br>
 8.4. Developers of the website must consign the website credential to the responsible personnel
 before leaving the liability.<br>
 
-## 9. Advisory panel
-To be a member of the advisory panel:
+## 9. Advisory Panel
+To be a member of the advisory panel: <br> 
 9.1. Must be a scholar<br>
 9.2. Must have research publication in SCI or SCIE, etc.<br>
 9.3. Must be an honest person<br>

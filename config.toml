@@ -132,9 +132,6 @@ tag = "tags"
     parent = "about"
     weight = 3
 
-
-
-
 [[menu.main]]
     name = "Research"
     weight = 2
@@ -156,7 +153,7 @@ tag = "tags"
     weight = 4
 
  [[menu.main]]
-    name = "Team"
+    name = "People"
     url = "/#members"
     weight = 5
 
