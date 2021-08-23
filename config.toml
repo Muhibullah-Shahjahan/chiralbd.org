@@ -212,12 +212,18 @@ tag = "tags"
     url = "/research/gdsc"
     parent="joinus"
     weight = 8
+  [[menu.main]]
+    name = "HealthGIS Lab"
+    url = "/research/health-gis-lab"
+    parent="joinus"
+    weight = 9
 
    [[menu.main]]
     name = "Starter's Guide for New Team Members"
     url = "/research/starter-guide"
     parent="joinus"
-    weight = 8
+    weight = 10
+
   [[menu.main]]
     name = "Collaboration"
     url = "#open-projects"
