@@ -228,11 +228,11 @@ tag = "tags"
     url = "/research/starter-guide"
     parent="joinus"
     weight = 10
-
-  [[menu.main]]
-    name = "Collaboration"
-    url = "#open-projects"
-    weight = 9
+  # 
+  # [[menu.main]]
+  #   name = "Collaboration"
+  #   url = "#open-projects"
+  #   weight = 9
 
   # [[menu.main]]
   #   name = "Open projects"
