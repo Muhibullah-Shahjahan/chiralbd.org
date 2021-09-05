@@ -131,6 +131,11 @@ tag = "tags"
     url = "/chiral-teams"
     parent = "about"
     weight = 3
+    [[menu.main]]
+      name = "Collaboration and Authorship"
+      url = "/collaboration-and-authorship"
+      parent = "about"
+      weight = 3
 
 [[menu.main]]
     name = "Research"

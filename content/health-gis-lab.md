@@ -1,10 +1,32 @@
 +++
-title="HealthGIS Lab"
-date = "2020-07-19T8:50:58+02:00"
-[[authors]]
+date = "2018-08-23T14:45:00+02:00"
+external_link = ""
+title = "HealthGIS Lab"
+# subtitle = "Session: 2021"
+participants_block_position = "down"
+type = "teaching"
+
+[blackfriday]
+    fractions = false
+
+[[participants]]
     name = "Jubayer Hossain"
     is_member = true
-    link = "/jubayer"
+    id = "jhossain"
+    position = 1
+
+[[participants]]
+    name = "Syedatasneem Towhid, Ph.D"
+    is_member = true
+    id = "tasneem"
+    position = 3
+
+[[participants]]
+    name = "Md. Atik Shariar Sammo"
+    is_member = true
+    id = "sammo"
+    position = 2
+
 +++
 
 
