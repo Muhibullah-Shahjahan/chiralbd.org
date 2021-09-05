@@ -2,6 +2,8 @@
 title="About CHIRAL Bangladesh"
 +++
 
+# Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) 
+
 ## Who We are
 CHIRAL Bangladesh stands for Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh). We are a voluntary non-profit research organization, resolving to promote interdisciplinary research in the field of health data science, computational biology and genomics.
 
