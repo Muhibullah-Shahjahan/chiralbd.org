@@ -1,6 +1,8 @@
 +++
-title="Constitution CHIRAL Bangladesh"
+title="Constitution of CHIRAL Bangladesh"
 +++
+
+# Constitution of CHIRAL Bangladesh
 
 ## Mission
 Our mission is to lead, promote and deliver health research solutions by learning programming, Statistics, Health Data Science, Biomedical Research Methodology, Research ethics, GIS and Remote Sensing in Public Health and Genomics Research, Scientific data analysis with Python, R, Julia and so on.
@@ -76,7 +78,7 @@ especially authorized by the Founder and Director of the CHIRAL Bangladesh.<br>
 before leaving the liability.<br>
 
 ## 9. Advisory Panel
-To be a member of the advisory panel: <br> 
+To be a member of the advisory panel: <br>
 9.1. Must be a scholar<br>
 9.2. Must have research publication in SCI or SCIE, etc.<br>
 9.3. Must be an honest person<br>
