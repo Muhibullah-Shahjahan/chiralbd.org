@@ -1,31 +1,61 @@
 +++
-date = "2020-07-12T16:10:22+02:00"
+date = "2021-07-12T16:10:22+02:00"
 external_link = ""
 project_id = "Urban-TeenLife"
-picture = "projects/antibiotics/medicines.jpg"
-short_description = "Antibiotics are medicines used to prevent and treat bacterial infections. Antibiotic resistance occurs when bacteria change in response to the use of these medicines. Antibiotic resistance is one of the biggest threats to global health, food security, and development today."
-description = "Antibiotics either are cytotoxic or cytostatic to the micro-organisms, allowing the body’s natural defences, such as the immune system, to eliminate them. They often act by inhibiting the synthesis of a bacterial cell, synthesis of proteins, deoxyribonucleic acid (DNA), ribonucleic acid (RNA), by a membrane disorganizing agent, or other specific actions. Antibiotics may also enter the cell wall of the bacteria by binding to them, using the energy-dependent transport mechanisms in ribosomal sites, which subsequently lead to the inhibition of the protein synthesis."
-title = "BD-TeenLife"
+picture = "projects/bd-teenlife/bd-teenlife.jpeg"
+short_description = "CHIRAL Bangladesh is committed to improving the quality of teens and school health through health research in Bangladesh. BD-TeenLife is an initiative by CHIRAL Bangladesh with some dedicated public health research enthusiasts. This project's primary goal is to promote teen health by linking schools, health organizations, and the community."
+description = "CHIRAL Bangladesh is committed to improving the quality of teens and school health through health research in Bangladesh. BD-TeenLife is an initiative by CHIRAL Bangladesh with some dedicated public health research enthusiasts. This project's primary goal is to promote teen health by linking schools, health organizations, and the community."
+title = "BD-TeenLife: Adolescence and School Health"
 participants_block_position = "down"
 sort_position = 3
 
-
+[[participants]]
+  name = "Principal Investigator, Dr. Md. Kamrujjaman"
+  id = "kamrujjaman"
+  position = 1
 
 [[participants]]
-    name = "Jubayer Hossain"
-    id = "jhossain"
-    position = 2
+  name = "Jubayer Hossain"
+  id = "jhossain"
+  position = 2
 +++
 
-Antibiotics either are cytotoxic or cytostatic to the micro-organisms, allowing the body’s natural defences, such as the immune system, to eliminate them. They often act by inhibiting the synthesis of a bacterial cell, synthesis of proteins, deoxyribonucleic acid (DNA), ribonucleic acid (RNA), by a membrane disorganizing agent, or other specific actions. Antibiotics may also enter the cell wall of the bacteria by binding to them, using the energy-dependent transport mechanisms in ribosomal sites, which subsequently lead to the inhibition of the protein synthesis.
+CHIRAL Bangladesh is committed to improving the quality of teens and school health through health research in Bangladesh. **BD-TeenLife** is an initiative by CHIRAL Bangladesh with some dedicated public health research enthusiasts. This project's primary goal is to promote teen health by linking schools, health organizations, and the community.
+
 
 ## Objectives
-- Improve awareness and understanding of antimicrobial resistance through effective communication, education and training.
-- Strengthen the knowledge and evidence base through surveillance and research.
-- Reduce the incidence of infection through effective sanitation, hygiene and infection prevention measures.
-- Optimize the use of antimicrobial medicines in human and animal health.
-- Develop the economic case for sustainable investment that takes account of the needs of all countries and to increase investment in new medicines, diagnostic tools, vaccines and other interventions.
+- To conduct health surveys for understanding the current public health problems of teenagers.
+- To conduct a national survey annually assessed school health policies and practices at the division, district, school, and classroom levels.
+- To promote teen health by linking schools, health organizations, and the community.
+
+## Research Focus - Health Problems
+- Teen Risk Behaviour
+- COVID-19 Experience
+- Physical Activity and Fitness
+- Injuries
+- Violence
+- Mental health
+- Alcohol and drug use
+- Tobacco use
+- HIV/AIDS
+- Infectious diseases
+- Early pregnancy and childbirth
+- Nutrition and micronutrient deficiencies
+- Undernutrition and obesity
+- Physical activity
+- Rights of adolescents
+- Environmental effects / environmental health
+- Teens, Health and Technology
+- Online games and physical activity
+- Source of health information
+- Healthcare satisfaction
+- Health promotions / education
+
+
 
 ## Working Papers
-1. [Perception of Students on Antibiotic Resistance and Prevention: An internet-based community case study from Dhaka, Bangladesh](https://hdrobd.org/publication/perception-of-students-on-antibiotic-resistance-and-prevention-an-internet-based-community-case-study-from-dhaka-bangladesh/)
-2. [Public Perception on the Spread of Antibiotic Resistance in Bangladesh](#)
+1. [Assessment of Environmental Health Knowledge, Attitude and Behaviour among Bangladeshi High School Students: A Cross-sectional Study](#)
+2. [Knowledge and Attitude of School Teachers towards Promoting Healthy Lifestyle to Students in Bangladesh](#)
+
+## Principal Investigator(PI)
+[Dr. Md. Kamrujjaman](https://www.du.ac.bd/faculty/faculty_details/MAT/163#)
