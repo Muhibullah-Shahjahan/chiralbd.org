@@ -12,7 +12,7 @@ A geographic information system (GIS) is a computer-based tool for mapping and a
 
 In today’s increasingly data-driven healthcare systems, gathering accurate information for analysis is a high priority. Doctors and nurses want to know as much as they can about the factors that affect each patient’s care. At the same time, administrators and public health leaders need to watch population-level trends and maintain regulatory acquiescence. Spatial data can be indispensable in achieving all these goals, making geographic information science (GIS) essential for public health research and strategy.
 
-The HealthGIS team focus on the publicly available data, and they turn data into knowledge. We also enable Geological Survey to collect data from the community level.
+The GHRL team focus on the publicly available data, and they turn data into knowledge. We also enable Geological Survey to collect data from the community level.
 
 
 {{< figure src="/img/starter-guide/remote_sensing.jpg" width="450px" class="right-inline" >}}
