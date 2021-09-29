@@ -218,8 +218,8 @@ tag = "tags"
     parent="joinus"
     weight = 8
   [[menu.main]]
-    name = "HealthGIS Lab"
-    url = "/research/health-gis-lab"
+    name = "Geospatial Health Research Lab(GHRL)"
+    url = "/research/ghrl"
     parent="joinus"
     weight = 9
 

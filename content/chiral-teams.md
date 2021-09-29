@@ -2,12 +2,11 @@
 title="CHIRAL Teams"
 +++
 
-# Teams -- Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) 
+# CHIRAL Bangladesh Teams
 
 ## Advisory Panel
-- Dr. Mohammad Ariful Islam
-- Dr. Syeda Tasneem Towhid
-- Sabia Sultana
+- Dr. Syeda Tasneem Towhid(Director)
+- Sabia Sultana(Undergrad Research Coordinator)
 
 
 ## Management Team
