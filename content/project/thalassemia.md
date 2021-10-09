@@ -5,7 +5,7 @@ project_id = "HDROP4"
 picture = "projects/thalassemia/thalassemia.jpg"
 description = ""
 short_description = "Thalassemia is a hereditary blood disorder that affects children and causes severe anemia. Each month, these patients require 1-2 bags of blood. Thalassemia is extremely prevalent in Bangladesh. 7% of our population is thalassemia positive, and 7000 new babies are born with thalassemia each year in Bangladesh. This disease is easily preventable with the right information and awareness."
-title = "Thalassemia"
+title = "Thalassemia Prevention and Control(TPC)"
 participants_block_position = "down"
 sort_position = 1
 
@@ -38,27 +38,27 @@ sort_position = 1
 
 <!-- <img src="/img/projects/thalassemia/thalassemia.png" width="1200px" height="500px"> -->
 
-## 
+##
 
 Thalassemia is a hereditary blood disorder that affects children and causes severe anemia. Each month, these patients require 1-2 bags of blood. Thalassemia is extremely prevalent in Bangladesh. 7% of our population is thalassemia positive, and 7000 new babies are born with thalassemia each year in Bangladesh. This disease is easily preventable with the right information and awareness.
 
 
-## Aims 
+## Aims
 
 - Create a strong partnership with different thalassemia hospitals in Bangladesh that provides national research capability in public health.
-- Engage with patients, the public, and practitioners through partnership hospitals and other bodies to deliver an acceptable approach to prevent thalassemia.  
-- Create a "Thalassemia Prevention Programme" at different universities in Bangladesh. 
-- To improve the quality of life of thalassemic children and their parents. 
+- Engage with patients, the public, and practitioners through partnership hospitals and other bodies to deliver an acceptable approach to prevent thalassemia.
+- Create a "Thalassemia Prevention Programme" at different universities in Bangladesh.
+- To improve the quality of life of thalassemic children and their parents.
 
-## Approach 
-The Health Data Research Organization works to create the **"Thalassemia Prevention Programme."** at different universities in Bangladesh. Currently, we are generating data about knowledge, attitude, and awareness towards thalassemia. Initially, We are working on the practice and knowledge towards thalassemia among public university students. 
+## Approach
+The Health Data Research Organization works to create the **"Thalassemia Prevention Programme."** at different universities in Bangladesh. Currently, we are generating data about knowledge, attitude, and awareness towards thalassemia. Initially, We are working on the practice and knowledge towards thalassemia among public university students.
 
-## Working Papers 
+## Working Papers
 1. [Knowledge and Attitudes of Thalassemia among Public University Students in Bangladesh](#)
 2. [Quality of Life among Bangladeshi Patients with Thalassemia using the SF-36 Questionnaire](#) [Proposed]
 
 
-## On Going Survey: Declaration 
+## On Going Survey: Declaration
 This survey focuses on the knowledge, attitude, and awareness of students from different public universities of Bangladesh towards Thalassemia. Your kind participation in this survey will help our research.This survey is expected to be spontaneous. You are requested to fill the given questions based on your
 won knowledge. All the information collected for this survey is highly confidential and will be used for research purpose only.
 <iframe
