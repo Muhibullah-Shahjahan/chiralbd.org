@@ -10,9 +10,14 @@ participants_block_position = "down"
 sort_position = 3
 
 [[participants]]
+    name = "Syedatasneem Towhid, Ph.D"
+    id = "tasneem"
+    position = 1
+
+[[participants]]
     name = "Sumona Akter"
     id = "sumona"
-    position = 1
+    position = 3
 
 [[participants]]
     name = "Jubayer Hossain"
@@ -48,5 +53,6 @@ Diabetes mellitus is associated with significant morbidity and mortality in Bang
 1. [Self Management And Knowledge of Diabetic Patients in Bangladesh and the Prevalence rate of Diabetes](https://hdrobd.org/publication/self-management-and-knowledge-of-diabetic-patients-in-bangladesh-and-the-prevalence-rate-of-diabetes/)
 2. [A survey on the general concept of diabetes among students of different universities in
 Bangladesh](#)
-3. [A survey on the general concept of diabetes among villagers of different districts in
-Bangladesh](#)
+
+## Principal Investigator(PI)
+[Dr. Syedatasneem Towhid](https://chiralbd.netlify.app/member/syedatasneem_towhid/)

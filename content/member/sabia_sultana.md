@@ -20,15 +20,15 @@ sort_position = 3
 
 
 
-[[education]]
-    course = "BSc in Microbiology"
-    institution = 'University of Dhaka'
-    year = 2019
-
-[[education]]
-    course = "MSc in Microbiology"
-    institution = 'University of Dhaka'
-    year = 2018
+# [[education]]
+#     course = "BSc in Microbiology"
+#     institution = 'University of Dhaka'
+#     year = 2019
+#
+# [[education]]
+#     course = "MSc in Microbiology"
+#     institution = 'University of Dhaka'
+#     year = 2018
 
 [[organizations]]
     name = "Jagannath University"

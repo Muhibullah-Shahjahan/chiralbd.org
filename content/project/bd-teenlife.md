@@ -5,13 +5,13 @@ project_id = "Urban-TeenLife"
 picture = "projects/bd-teenlife/bd-teenlife.jpeg"
 short_description = "CHIRAL Bangladesh is committed to improving the quality of teens and school health through health research in Bangladesh. BD-TeenLife is an initiative by CHIRAL Bangladesh with some dedicated public health research enthusiasts. This project's primary goal is to promote teen health by linking schools, health organizations, and the community."
 description = "CHIRAL Bangladesh is committed to improving the quality of teens and school health through health research in Bangladesh. BD-TeenLife is an initiative by CHIRAL Bangladesh with some dedicated public health research enthusiasts. This project's primary goal is to promote teen health by linking schools, health organizations, and the community."
-title = "BD-TeenLife: Adolescence and School Health"
+title = "BD-TeenLife - Adolescence and School Health"
 participants_block_position = "down"
 sort_position = 3
 
 [[participants]]
-  name = "Principal Investigator, Dr. Md. Kamrujjaman"
-  id = "kamrujjaman"
+  name = "Principal Investigator, Dr. Syedatasneem Towhid, Ph.D"
+  id = "tasneem"
   position = 1
 
 [[participants]]
@@ -58,4 +58,4 @@ CHIRAL Bangladesh is committed to improving the quality of teens and school heal
 2. [Knowledge and Attitude of School Teachers towards Promoting Healthy Lifestyle to Students in Bangladesh](#)
 
 ## Principal Investigator(PI)
-[Dr. Md. Kamrujjaman](https://www.du.ac.bd/faculty/faculty_details/MAT/163#)
+[Dr. Syedatasneem Towhid](https://chiralbd.netlify.app/member/syedatasneem_towhid/)

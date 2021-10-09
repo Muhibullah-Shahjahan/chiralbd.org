@@ -42,3 +42,7 @@ Antibiotics either are cytotoxic or cytostatic to the micro-organisms, allowing 
 ## Working Papers
 1. [Perception of Students on Antibiotic Resistance and Prevention: An internet-based community case study from Dhaka, Bangladesh](https://hdrobd.org/publication/perception-of-students-on-antibiotic-resistance-and-prevention-an-internet-based-community-case-study-from-dhaka-bangladesh/)
 2. [Public Perception on the Spread of Antibiotic Resistance in Bangladesh](#)
+
+
+## Principal Investigator(PI)
+[Dr. Syedatasneem Towhid](https://chiralbd.netlify.app/member/syedatasneem_towhid/)

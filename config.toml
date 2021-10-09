@@ -51,6 +51,7 @@ tag = "tags"
   #   name = "NWO"
   #   link = "http://www.stw.nl"
   #   image = "/img/sponsors/thals.png"
+  #
   # [[params.sponsors]]
   #   name = "GN Resound"
   #   link = "http://www.resound.com/"
@@ -69,7 +70,7 @@ tag = "tags"
   [params.publications]
     count = 5
     detailed_list = false
-    title = "Publications"
+    title = "Working Papers"
     subtitle = ""
     str_all = "More Publications"
 
@@ -87,7 +88,7 @@ tag = "tags"
   [params.projects]
     title = "Projects"
     subtitle = ""
-    count = 4
+    count = 5
     str_all = "More Projects"
 
   # Vacancies section
@@ -126,11 +127,13 @@ tag = "tags"
     url = "/constitution"
     parent = "about"
     weight = 2
+
   [[menu.main]]
     name = "Teams"
     url = "/chiral-teams"
     parent = "about"
     weight = 3
+
     [[menu.main]]
       name = "Collaboration and Authorship"
       url = "/collaboration-and-authorship"

@@ -58,6 +58,13 @@ The Health Data Research Organization works to create the **"Thalassemia Prevent
 2. [Quality of Life among Bangladeshi Patients with Thalassemia using the SF-36 Questionnaire](#) [Proposed]
 
 
+## Principal Investigator(PI)
+[Dr. Mohammad Ariful Islam](https://chiralbd.netlify.app/member/ariful_islam/)
+## Co-Principal Investigator(Co-PI)
+[Bangladesh Thalassemia Foundation](https://thals.org/)
+
+
+
 ## On Going Survey: Declaration
 This survey focuses on the knowledge, attitude, and awareness of students from different public universities of Bangladesh towards Thalassemia. Your kind participation in this survey will help our research.This survey is expected to be spontaneous. You are requested to fill the given questions based on your
 won knowledge. All the information collected for this survey is highly confidential and will be used for research purpose only.
