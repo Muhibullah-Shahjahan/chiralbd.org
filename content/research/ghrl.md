@@ -8,6 +8,11 @@ date = "2020-07-19T8:50:58+02:00"
 +++
 
 
+<div class="mapouter"><div class="gmap_canvas"><iframe width="1200" height="500" id="gmap_canvas" src="https://www.healthmap.org/en/" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://getasearch.com">getasearch</a><br><style>.mapouter{position:relative;text-align:right;height:367px;width:1080px;}</style><a href="https://www.embedgooglemap.net">add google map to my website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1200px;}</style></div></div>
+
+<br> 
+
+
 A geographic information system (GIS) is a computer-based tool for mapping and analyzing feature events on earth. Remote sensing is the art and science of making measurements of the globe using sensors on airplanes or satellites.
 
 In today’s increasingly data-driven healthcare systems, gathering accurate information for analysis is a high priority. Doctors and nurses want to know as much as they can about the factors that affect each patient’s care. At the same time, administrators and public health leaders need to watch population-level trends and maintain regulatory acquiescence. Spatial data can be indispensable in achieving all these goals, making geographic information science (GIS) essential for public health research and strategy.
@@ -23,6 +28,29 @@ The GHRL team focus on the publicly available data, and they turn data into know
 - To mapping and analyzing biodiversity data, such as the distribution of species or other 'point-distributions.'
 - To enable geo-spatial data science for making data-driven conclusions and help policymakers to make decisions.
 - To understand the distribution of the environmental pollutants using satellite imagery technology
+
+## Resources
+- [U.S. Government Open Data](https://www.data.gov/)
+- [GIS at CDC](https://www.cdc.gov/gis/index.htm)
+- [NCHHSTP Atlas by CDC](https://www.cdc.gov/nchhstp/atlas/)
+- [A portal for the U.S. Dept. of Health and Human Services Office of Global Affairs](https://www.hhs.gov/about/agencies/oga/index.html)
+- [USAID Global Health](https://www.usaid.gov/what-we-do/global-health)
+- [U.S. Census Bureau’s International Programs Data](http://www.census.gov/population/international/data/)
+- [The Health and Environment Linkages Initiative (HELI) by WHO and UNEP](http://www.who.int/heli/)
+- [Global Health Observatory (GHO) Data by WHO](http://www.who.int/gho/)
+- [WHO Global Health Atlas](http://apps.who.int/globalatlas/)
+- [Pan American Health Organizations Data](http://ais.paho.org/sigepi/index.asp?lang=en)
+- [HealthMap: Global Disease Alert Map](https://www.healthmap.org/en/)
+- [US-Mexico Border Environmental Health Initiative](http://borderhealth.cr.usgs.gov/IMS.html)
+- [US-Mexico Border Environmental Health Initiative](http://borderhealth.cr.usgs.gov/IMS.html)
+- [OECD Health Statistics](http://www.census.gov/population/international/data/)
+- [OECD Library Health Statistics](https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics_health-data-en)
+- [World Bank’s World Development Indicators (WDI)](https://data.worldbank.org/data-catalog/world-development-indicators)
+- [UN Statistics Division](https://unstats.un.org/unsd/demographic/default.htm)
+- [FOASTAT by Food and Agriculture Organization of the UN](http://www.fao.org/faostat/en/)
+- [Global Health Facts (Kaiser Family Foundation)](http://kff.org/message-about-global-health-facts/)
+- [Global Health Data Exchange](http://ghdx.healthdata.org/)
+- [The World Fact Book by CIA](https://www.cia.gov/library/publications/the-world-factbook/index.html)
 
 ## GIS Data Sources
 - [CDC Wonder](https://wonder.cdc.gov/)
