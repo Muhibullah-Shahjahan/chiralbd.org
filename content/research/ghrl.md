@@ -8,11 +8,6 @@ date = "2020-07-19T8:50:58+02:00"
 +++
 
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="1200" height="500" id="gmap_canvas" src="https://www.healthmap.org/en/" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://getasearch.com">getasearch</a><br><style>.mapouter{position:relative;text-align:right;height:367px;width:1080px;}</style><a href="https://www.embedgooglemap.net">add google map to my website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1200px;}</style></div></div>
-
-<br> 
-
-
 A geographic information system (GIS) is a computer-based tool for mapping and analyzing feature events on earth. Remote sensing is the art and science of making measurements of the globe using sensors on airplanes or satellites.
 
 In today’s increasingly data-driven healthcare systems, gathering accurate information for analysis is a high priority. Doctors and nurses want to know as much as they can about the factors that affect each patient’s care. At the same time, administrators and public health leaders need to watch population-level trends and maintain regulatory acquiescence. Spatial data can be indispensable in achieving all these goals, making geographic information science (GIS) essential for public health research and strategy.
